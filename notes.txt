@@ -1,0 +1,30 @@
+
+Run it in the Terminal psql prompt, not at the regular shell prompt.
+
+In Terminal, connect to the project database:
+
+    /Applications/Postgres.app/Contents/Versions/latest/bin/psql \
+    -h /tmp -U rahulkolle -d netflix_customer_intelligence
+
+
+When the prompt changes to 
+    netflix_customer_intelligence=#, type:
+     SELECT count(*) FROM payments;
+
+
+Exit psql with: \q
+
+
+
+
+/Applications/Postgres.app/Contents/Versions/latest/bin/psql \
+  -h /tmp -U rahulkolle -d netflix_customer_intelligence \
+  -f database/sql_business_questions.sql
+
+
+Shukla@123
+
+ctlr + shift + p
+SQLTools: Run Query.
+
+

@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "Local Netflix Customer Intelligence",
+      "driver": "PostgreSQL",
+      "server": "/tmp",
+      "port": 5432,
+      "database": "netflix_customer_intelligence",
+      "username": "rahulkolle",
+      "previewLimit": 50
+    }
+  ]
+}
