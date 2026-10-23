@@ -1,0 +1,1529 @@
+ticket_id,customer_id,ticket_date,issue_category,issue_subcategory,priority,ticket_status,predicted_customer_satisfaction_score
+TCK0000004,CUST000003,2021-03-05,Account Access,Account locked,Low,Escalated,3.6019242
+TCK0000010,CUST000013,2026-06-14,Streaming Quality,Low resolution,Medium,Escalated,2.990316
+TCK0000017,CUST000022,2026-04-17,Billing & Payments,Failed payment,Medium,Escalated,2.8933928
+TCK0000022,CUST000027,2023-08-31,Streaming Quality,App crashing,High,Pending,2.763464
+TCK0000029,CUST000039,2024-07-28,Subscription,Plan upgrade request,Low,Escalated,3.6124656
+TCK0000038,CUST000054,2024-10-05,Account Access,Email verification issue,Medium,Pending,3.7024446
+TCK0000040,CUST000055,2020-11-12,Account Access,Email verification issue,Medium,Pending,3.5014734
+TCK0000043,CUST000057,2020-04-28,Streaming Quality,Audio sync issue,Medium,Escalated,3.060417
+TCK0000047,CUST000058,2026-05-21,Billing & Payments,Refund request,High,Escalated,3.0808055
+TCK0000054,CUST000073,2024-05-31,Account Access,Account locked,Low,Pending,3.519927
+TCK0000057,CUST000074,2021-11-18,Billing & Payments,Refund request,Low,Pending,3.1418617
+TCK0000058,CUST000076,2025-12-12,Streaming Quality,Low resolution,High,Escalated,2.9351563
+TCK0000071,CUST000096,2023-11-06,Billing & Payments,Failed payment,High,Pending,3.1080992
+TCK0000076,CUST000103,2026-03-12,Billing & Payments,Price dispute,Low,Escalated,2.9912837
+TCK0000081,CUST000110,2025-11-30,Streaming Quality,Audio sync issue,Low,Pending,3.2555428
+TCK0000082,CUST000110,2025-09-28,Account Access,Account locked,Medium,Escalated,3.5895889
+TCK0000088,CUST000116,2025-12-08,Subscription,Auto-renew complaint,High,Pending,3.4327655
+TCK0000095,CUST000122,2020-11-06,Streaming Quality,Low resolution,High,Pending,2.7700202
+TCK0000106,CUST000132,2021-10-13,Streaming Quality,Audio sync issue,Medium,Pending,3.0580595
+TCK0000110,CUST000135,2025-11-03,Streaming Quality,Low resolution,High,Pending,2.8201401
+TCK0000113,CUST000138,2024-12-16,Streaming Quality,Audio sync issue,High,Escalated,2.647619
+TCK0000122,CUST000148,2020-10-02,Content,Content unavailable in region,Medium,Pending,3.561181
+TCK0000124,CUST000148,2026-04-23,Device & App,Download failure,Low,Pending,3.5878122
+TCK0000130,CUST000158,2024-08-22,Content,Content removed,Low,Escalated,3.585943
+TCK0000133,CUST000159,2025-01-26,Billing & Payments,Duplicate charge,Medium,Pending,3.3293202
+TCK0000136,CUST000160,2025-11-07,Streaming Quality,Low resolution,Low,Pending,3.0261734
+TCK0000143,CUST000169,2024-07-23,Billing & Payments,Duplicate charge,High,Pending,3.080517
+TCK0000146,CUST000171,2026-06-30,Billing & Payments,Refund request,Medium,Pending,3.0441663
+TCK0000148,CUST000174,2026-06-05,Streaming Quality,App crashing,Medium,Pending,3.0814073
+TCK0000152,CUST000179,2024-10-04,Subscription,Auto-renew complaint,High,Escalated,3.5362616
+TCK0000154,CUST000184,2025-05-25,Device & App,App not loading,Critical,Escalated,3.4546523
+TCK0000155,CUST000185,2022-06-27,Streaming Quality,App crashing,Medium,Pending,3.063529
+TCK0000157,CUST000185,2024-09-10,Content,Content removed,Low,Pending,3.504498
+TCK0000164,CUST000194,2025-08-18,Billing & Payments,Duplicate charge,Low,Escalated,2.9579558
+TCK0000165,CUST000194,2023-10-03,Billing & Payments,Price dispute,Low,Pending,3.0668771
+TCK0000167,CUST000195,2024-02-21,Streaming Quality,Low resolution,Medium,Pending,2.9625232
+TCK0000168,CUST000196,,Content,Content unavailable in region,Medium,Escalated,3.5744307
+TCK0000172,CUST000200,2026-01-29,Billing & Payments,Invoice question,High,Pending,2.9804192
+TCK0000174,CUST000205,2026-03-30,Streaming Quality,Audio sync issue,Low,Pending,3.0488176
+TCK0000178,CUST000211,2025-02-28,Billing & Payments,Invoice question,Medium,Escalated,2.827714
+TCK0000186,CUST000223,2025-06-22,Account Access,Login failure,Medium,Escalated,3.451017
+TCK0000203,CUST000250,2023-12-27,Device & App,Download failure,Low,Escalated,3.5997524
+TCK0000211,CUST000255,2023-12-03,Device & App,Download failure,Low,Escalated,3.597428
+TCK0000214,CUST000267,2026-02-17,Subscription,Plan downgrade request,Medium,Pending,3.5443022
+TCK0000215,CUST000273,2026-04-13,Account Access,Login failure,Low,Escalated,3.4659712
+TCK0000216,CUST000274,2023-08-24,Streaming Quality,Low resolution,Low,Escalated,3.0706122
+TCK0000218,CUST000276,2025-08-30,Streaming Quality,App crashing,Medium,Pending,3.3937314
+TCK0000219,CUST000278,2026-02-16,Account Access,Password reset,Low,Pending,3.568897
+TCK0000221,CUST000282,2026-06-01,Account Access,Account locked,Critical,Pending,3.6146517
+TCK0000222,CUST000283,2026-06-26,Billing & Payments,Failed payment,Low,Escalated,2.9276621
+TCK0000230,CUST000290,2026-04-27,Device & App,Download failure,Low,Escalated,3.5726807
+TCK0000236,CUST000294,2025-08-07,Billing & Payments,Refund request,Medium,Pending,2.882124
+TCK0000240,CUST000302,2026-04-15,Device & App,Download failure,High,Pending,3.5703983
+TCK0000244,CUST000307,2026-04-20,Subscription,Plan upgrade request,Critical,Escalated,3.6525543
+TCK0000246,CUST000308,2024-12-12,Device & App,Device not supported,High,Escalated,3.412852
+TCK0000257,CUST000325,2024-04-01,Streaming Quality,Low resolution,Low,Pending,3.019112
+TCK0000262,CUST000331,2026-04-23,Account Access,Password reset,Low,Pending,3.53614
+TCK0000263,CUST000331,2025-09-20,Device & App,Sync across devices,Medium,Pending,3.618921
+TCK0000269,CUST000341,2025-05-11,Device & App,Device not supported,High,Pending,3.6439066
+TCK0000271,CUST000345,2026-01-22,Account Access,Password reset,Medium,Pending,3.4729314
+TCK0000283,CUST000357,2025-02-01,Streaming Quality,Low resolution,High,Escalated,2.939709
+TCK0000290,CUST000362,2023-07-08,Account Access,Account locked,Low,Pending,3.7842762
+TCK0000293,CUST000366,2026-04-28,Billing & Payments,Failed payment,Low,Escalated,3.0318322
+TCK0000296,CUST000372,2024-04-23,Subscription,Auto-renew complaint,High,Pending,3.5390444
+TCK0000309,CUST000387,2022-04-15,Account Access,Login failure,Medium,Escalated,3.0082083
+TCK0000311,CUST000387,2025-05-06,Streaming Quality,Low resolution,Low,Pending,3.133659
+TCK0000315,CUST000389,2026-02-20,Content,Missing subtitles,Low,Pending,3.5776577
+TCK0000336,CUST000413,2021-11-09,Streaming Quality,Buffering,Medium,Pending,3.2627625
+TCK0000337,CUST000415,2025-09-27,Content,Content removed,High,Pending,3.5802975
+TCK0000338,CUST000417,2025-03-10,Billing & Payments,Failed payment,Low,Pending,2.992274
+TCK0000343,CUST000424,2025-06-07,Subscription,Auto-renew complaint,Critical,Escalated,3.6083512
+TCK0000344,CUST000425,2022-07-31,Account Access,Account locked,Critical,Pending,3.6129262
+TCK0000347,CUST000428,,Billing & Payments,Price dispute,Critical,Pending,2.975432
+TCK0000348,CUST000428,2024-06-18,Billing & Payments,Price dispute,Medium,Pending,2.6174405
+TCK0000349,CUST000428,2026-04-29,Subscription,Auto-renew complaint,Medium,Escalated,3.5261068
+TCK0000352,CUST000430,2024-12-22,Subscription,Plan downgrade request,Low,Pending,3.3268487
+TCK0000360,CUST000439,2026-05-11,Device & App,Download failure,Medium,Escalated,3.403245
+TCK0000362,CUST000442,2023-05-28,Billing & Payments,Price dispute,High,Escalated,3.097175
+TCK0000364,CUST000447,2021-08-09,Account Access,Email verification issue,Medium,Pending,3.466729
+TCK0000366,CUST000449,2023-04-14,Account Access,Login failure,High,Escalated,3.609162
+TCK0000367,CUST000450,2025-04-06,Subscription,Cancellation request,Low,Escalated,3.5368164
+TCK0000371,CUST000455,2022-08-04,Account Access,Password reset,Medium,Pending,3.3188677
+TCK0000379,CUST000466,2026-05-13,Billing & Payments,Failed payment,High,Pending,2.8175755
+TCK0000383,CUST000478,2023-05-11,Device & App,Download failure,Low,Escalated,3.6116655
+TCK0000384,CUST000480,2026-03-16,Billing & Payments,Refund request,Low,Pending,3.1757233
+TCK0000390,CUST000493,2025-09-18,Billing & Payments,Duplicate charge,High,Pending,3.0397367
+TCK0000391,CUST000493,2026-03-30,Account Access,Email verification issue,Low,Pending,3.55835
+TCK0000396,CUST000499,2024-02-02,Account Access,Login failure,Low,Escalated,3.454021
+TCK0000399,CUST000503,2019-05-28,Subscription,Plan upgrade request,Low,Escalated,3.495995
+TCK0000403,CUST000505,2024-05-17,Device & App,Device not supported,Medium,Pending,3.5344334
+TCK0000407,CUST000512,2025-06-14,Billing & Payments,Duplicate charge,High,Escalated,3.0133264
+TCK0000408,CUST000513,2020-05-29,Billing & Payments,Invoice question,Low,Pending,3.0381584
+TCK0000416,CUST000522,2025-03-07,Billing & Payments,Price dispute,Low,Pending,3.1721437
+TCK0000419,CUST000530,2023-06-18,Account Access,Account locked,High,Escalated,3.5826452
+TCK0000429,CUST000540,2025-04-05,Billing & Payments,Refund request,Low,Escalated,3.1649327
+TCK0000431,CUST000545,2025-05-28,Billing & Payments,Refund request,Low,Pending,3.0165498
+TCK0000432,CUST000548,2023-10-04,Account Access,Email verification issue,Critical,Pending,3.4330943
+TCK0000435,CUST000553,2024-03-20,Content,Missing subtitles,Critical,Escalated,3.422438
+TCK0000442,CUST000563,2025-04-24,Streaming Quality,App crashing,Low,Pending,3.120837
+TCK0000443,CUST000564,2024-01-30,Billing & Payments,Duplicate charge,Critical,Escalated,3.4169023
+TCK0000445,CUST000565,2026-02-16,Account Access,Password reset,Medium,Escalated,3.546311
+TCK0000451,CUST000573,2023-12-07,Content,Missing subtitles,Medium,Escalated,3.3650656
+TCK0000455,CUST000578,2020-08-20,Streaming Quality,Low resolution,Medium,Pending,2.973165
+TCK0000459,CUST000580,2026-06-21,Billing & Payments,Failed payment,Medium,Pending,2.947613
+TCK0000461,CUST000582,2024-09-28,Billing & Payments,Failed payment,High,Escalated,2.982303
+TCK0000463,CUST000587,2024-02-17,Streaming Quality,Buffering,Low,Pending,3.2401469
+TCK0000469,CUST000597,2023-04-21,Billing & Payments,Failed payment,Medium,Escalated,2.9381871
+TCK0000470,CUST000600,2023-04-18,Streaming Quality,Audio sync issue,Medium,Pending,3.043399
+TCK0000475,CUST000606,2024-02-28,Account Access,Account locked,Low,Pending,3.57326
+TCK0000485,CUST000620,2021-11-15,Billing & Payments,Failed payment,High,Escalated,2.7828248
+TCK0000486,CUST000621,2024-02-05,Device & App,Device not supported,Low,Escalated,3.8264651
+TCK0000487,CUST000623,2025-06-17,Content,Missing subtitles,Medium,Pending,3.5486782
+TCK0000492,CUST000629,2024-07-15,Streaming Quality,App crashing,High,Escalated,2.9949636
+TCK0000493,CUST000630,2026-04-10,Content,Content unavailable in region,Low,Pending,3.587765
+TCK0000501,CUST000638,2025-12-20,Streaming Quality,Audio sync issue,Low,Escalated,3.0077264
+TCK0000505,CUST000642,2022-01-09,Account Access,Account locked,Low,Escalated,3.694676
+TCK0000508,CUST000644,2024-02-18,Streaming Quality,App crashing,Low,Pending,2.893516
+TCK0000514,CUST000656,2026-05-10,Streaming Quality,Low resolution,Critical,Escalated,3.0083869
+TCK0000524,CUST000668,2026-01-20,Account Access,Password reset,Critical,Escalated,3.5623307
+TCK0000526,CUST000670,2026-04-19,Subscription,Cancellation request,High,Escalated,3.5081563
+TCK0000527,CUST000671,2025-09-27,Streaming Quality,Audio sync issue,Medium,Pending,3.0205767
+TCK0000531,CUST000679,2025-10-28,Billing & Payments,Price dispute,Medium,Pending,3.224888
+TCK0000533,CUST000685,2026-06-11,Streaming Quality,Audio sync issue,High,Escalated,3.0395908
+TCK0000534,CUST000686,2022-09-28,Subscription,Plan upgrade request,Medium,Pending,3.4506903
+TCK0000540,CUST000697,2023-01-17,Streaming Quality,Low resolution,Medium,Pending,3.119599
+TCK0000541,CUST000698,2025-02-17,Streaming Quality,Buffering,High,Pending,2.960264
+TCK0000549,CUST000706,2022-06-17,Streaming Quality,Audio sync issue,Low,Escalated,3.0644937
+TCK0000551,CUST000707,2026-01-21,Subscription,Plan downgrade request,Low,Pending,3.5417018
+TCK0000552,CUST000709,2022-09-24,Subscription,Plan upgrade request,Critical,Pending,3.6712115
+TCK0000554,CUST000711,2024-03-13,Billing & Payments,Failed payment,Low,Escalated,2.909116
+TCK0000555,CUST000712,2025-01-25,Billing & Payments,Refund request,Medium,Escalated,3.0976226
+TCK0000565,CUST000720,2026-06-10,Billing & Payments,Failed payment,Medium,Pending,2.905224
+TCK0000569,CUST000725,2026-05-15,Content,Content removed,Medium,Escalated,3.571549
+TCK0000572,CUST000726,2025-10-07,Account Access,Account locked,Medium,Escalated,3.4679646
+TCK0000575,CUST000729,2024-03-28,Device & App,Device not supported,Medium,Escalated,3.5192444
+TCK0000577,CUST000731,2022-12-30,Subscription,Plan downgrade request,High,Escalated,3.5290368
+TCK0000579,CUST000734,2024-07-01,Billing & Payments,Invoice question,Low,Escalated,2.958129
+TCK0000584,CUST000742,2026-01-18,Streaming Quality,App crashing,Low,Pending,3.110345
+TCK0000596,CUST000764,2021-08-29,Billing & Payments,Duplicate charge,Critical,Pending,3.0353558
+TCK0000597,CUST000767,2025-12-14,Account Access,Email verification issue,Medium,Escalated,3.066989
+TCK0000601,CUST000770,2023-12-17,Subscription,Auto-renew complaint,Medium,Escalated,3.43901
+TCK0000602,CUST000771,2025-08-16,Subscription,Cancellation request,Low,Escalated,3.4613318
+TCK0000603,CUST000773,2023-02-06,Account Access,Login failure,Low,Pending,3.5205069
+TCK0000611,CUST000777,2026-05-13,Streaming Quality,App crashing,Medium,Escalated,3.1437287
+TCK0000612,CUST000777,2025-11-19,Billing & Payments,Invoice question,Low,Pending,2.9109654
+TCK0000614,CUST000779,2024-05-25,Content,Missing subtitles,Medium,Pending,3.6223812
+TCK0000615,CUST000781,2023-08-20,Billing & Payments,Failed payment,Critical,Pending,2.9743948
+TCK0000616,CUST000782,2026-01-21,Account Access,Login failure,High,Pending,3.508034
+TCK0000621,CUST000795,2023-05-07,Device & App,App not loading,Low,Pending,3.6392512
+TCK0000623,CUST000798,2025-01-06,Subscription,Cancellation request,Medium,Pending,3.4280856
+TCK0000624,CUST000800,2025-10-14,Billing & Payments,Failed payment,Low,Pending,3.0221741
+TCK0000626,CUST000801,2025-04-12,Streaming Quality,Low resolution,High,Pending,2.9360232
+TCK0000631,CUST000806,2024-04-14,Streaming Quality,App crashing,Medium,Escalated,3.08945
+TCK0000638,CUST000814,2025-09-17,Device & App,Device not supported,High,Escalated,3.4319048
+TCK0000646,CUST000822,2025-12-09,Streaming Quality,App crashing,Low,Pending,3.0795562
+TCK0000652,CUST000827,2021-09-27,Content,Content removed,Medium,Pending,3.5079615
+TCK0000654,CUST000829,2025-11-20,Content,Content removed,Low,Escalated,3.5760565
+TCK0000655,CUST000832,2025-01-15,Account Access,Login failure,Medium,Escalated,3.486872
+TCK0000661,CUST000844,2022-02-06,Device & App,App not loading,Low,Escalated,3.5321083
+TCK0000663,CUST000846,2024-01-24,Subscription,Plan downgrade request,Medium,Pending,3.451849
+TCK0000664,CUST000847,2020-09-06,Streaming Quality,Buffering,Low,Pending,3.0994513
+TCK0000670,CUST000855,2026-02-06,Billing & Payments,Price dispute,High,Escalated,3.0919743
+TCK0000672,CUST000856,2025-10-01,Streaming Quality,Buffering,Medium,Escalated,3.434648
+TCK0000678,CUST000866,2021-11-23,Device & App,Download failure,Critical,Escalated,3.6294105
+TCK0000679,CUST000871,2026-06-27,Account Access,Password reset,Medium,Pending,3.474863
+TCK0000680,CUST000871,2026-05-14,Account Access,Email verification issue,Medium,Pending,3.3958395
+TCK0000682,CUST000877,,Streaming Quality,Buffering,Low,Pending,3.020664
+TCK0000689,CUST000885,2025-11-15,Device & App,Download failure,Medium,Pending,3.6061423
+TCK0000690,CUST000886,2025-08-24,Streaming Quality,Audio sync issue,Low,Escalated,3.2524793
+TCK0000697,CUST000892,2026-04-10,Billing & Payments,Refund request,Medium,Pending,2.896757
+TCK0000701,CUST000896,2025-12-31,Account Access,Login failure,Medium,Pending,3.2189484
+TCK0000704,CUST000901,2026-04-04,Device & App,Device not supported,Low,Escalated,3.5863886
+TCK0000705,CUST000903,2020-02-03,Streaming Quality,Buffering,Medium,Escalated,3.0059247
+TCK0000708,CUST000907,2023-07-31,Billing & Payments,Duplicate charge,Low,Pending,3.0357935
+TCK0000723,CUST000929,2022-12-29,Device & App,Sync across devices,Medium,Escalated,3.5081043
+TCK0000724,CUST000930,2024-04-13,Account Access,Email verification issue,Medium,Pending,3.4696426
+TCK0000729,CUST000937,2024-02-26,Subscription,Plan upgrade request,Medium,Pending,3.1451254
+TCK0000732,CUST000943,2023-07-13,Subscription,Cancellation request,High,Pending,3.4295895
+TCK0000736,CUST000949,2022-06-11,Device & App,Device not supported,Low,Pending,3.5945375
+TCK0000738,CUST000951,2026-04-23,Account Access,Account locked,Medium,Escalated,3.6043828
+TCK0000745,CUST000960,2024-06-09,Device & App,App not loading,Medium,Pending,3.474186
+TCK0000751,CUST000973,2024-10-17,Account Access,Password reset,Low,Pending,3.4411287
+TCK0000752,CUST000974,2024-01-29,Streaming Quality,Buffering,Low,Pending,3.1595619
+TCK0000761,CUST000982,2026-03-16,Subscription,Plan downgrade request,Medium,Pending,3.5451303
+TCK0000764,CUST000982,2026-06-27,Billing & Payments,Failed payment,Low,Escalated,2.6683898
+TCK0000765,CUST000983,2025-03-22,Content,Content removed,High,Pending,3.414808
+TCK0000766,CUST000985,2025-03-19,Streaming Quality,Low resolution,Low,Escalated,3.12345
+TCK0000768,CUST000986,2022-09-20,Streaming Quality,Buffering,Medium,Pending,2.7014961
+TCK0000775,CUST000988,2025-05-09,Billing & Payments,Failed payment,Low,Escalated,3.06357
+TCK0000778,CUST000993,2024-06-20,Billing & Payments,Refund request,Low,Pending,2.8763704
+TCK0000787,CUST001004,2024-05-29,Account Access,Password reset,Critical,Pending,3.6173053
+TCK0000798,CUST001016,2025-04-23,Billing & Payments,Failed payment,Medium,Pending,3.0218625
+TCK0000802,CUST001023,2026-06-09,Account Access,Login failure,Low,Escalated,3.267861
+TCK0000804,CUST001032,2022-10-12,Account Access,Account locked,Medium,Pending,3.4429238
+TCK0000807,CUST001037,2020-08-30,Streaming Quality,Low resolution,Low,Escalated,2.9913871
+TCK0000827,CUST001060,2025-09-21,Billing & Payments,Failed payment,High,Pending,2.97041
+TCK0000832,CUST001070,2026-06-26,Streaming Quality,Audio sync issue,Medium,Pending,3.1183043
+TCK0000834,CUST001074,2025-08-10,Device & App,Download failure,Low,Pending,3.599552
+TCK0000835,CUST001075,2020-11-12,Streaming Quality,Buffering,Low,Pending,3.0375254
+TCK0000844,CUST001095,2025-07-21,Account Access,Email verification issue,High,Escalated,3.4639523
+TCK0000845,CUST001096,2024-05-15,Account Access,Account locked,Critical,Pending,3.523175
+TCK0000849,CUST001099,2025-05-19,Account Access,Login failure,Low,Pending,3.3587697
+TCK0000854,CUST001108,2026-05-30,Subscription,Auto-renew complaint,High,Escalated,3.5865378
+TCK0000860,CUST001116,2024-07-10,Device & App,App not loading,Critical,Pending,3.503212
+TCK0000861,CUST001117,2025-05-23,Streaming Quality,App crashing,High,Pending,2.9238465
+TCK0000862,CUST001119,2023-01-28,Streaming Quality,Buffering,High,Escalated,2.903929
+TCK0000863,CUST001120,2024-03-30,Content,Content unavailable in region,Medium,Escalated,3.6569912
+TCK0000869,CUST001124,2026-04-25,Content,Missing subtitles,High,Escalated,3.575194
+TCK0000870,CUST001128,2025-12-13,Subscription,Plan upgrade request,High,Escalated,3.5817661
+TCK0000875,CUST001132,2026-01-01,Account Access,Email verification issue,Medium,Escalated,3.651686
+TCK0000878,CUST001139,2025-09-04,Account Access,Email verification issue,High,Pending,3.724845
+TCK0000884,CUST001150,2022-07-08,Account Access,Password reset,Low,Escalated,3.454187
+TCK0000891,CUST001160,2022-07-29,Content,Missing subtitles,Medium,Pending,3.5034118
+TCK0000900,CUST001166,2025-03-11,Device & App,Download failure,Low,Escalated,3.5409436
+TCK0000915,CUST001182,2026-05-11,Billing & Payments,Invoice question,Medium,Escalated,2.9338577
+TCK0000917,CUST001184,2022-10-07,Billing & Payments,Invoice question,Medium,Pending,2.7258325
+TCK0000924,CUST001191,2024-07-18,Subscription,Auto-renew complaint,Low,Pending,3.5514252
+TCK0000945,CUST001209,2026-03-19,Billing & Payments,Refund request,Low,Pending,2.9336143
+TCK0000947,CUST001213,2025-04-26,Billing & Payments,Duplicate charge,Medium,Escalated,3.223384
+TCK0000950,CUST001213,2026-03-09,Content,Content removed,Low,Escalated,3.5522287
+TCK0000953,CUST001222,2022-05-30,Streaming Quality,App crashing,Medium,Pending,3.1496813
+TCK0000958,CUST001229,2023-12-20,Streaming Quality,Audio sync issue,Medium,Pending,3.042679
+TCK0000960,CUST001231,2023-10-23,Streaming Quality,App crashing,Low,Escalated,3.085237
+TCK0000964,CUST001239,2024-01-20,Device & App,Download failure,Low,Escalated,3.6336935
+TCK0000966,CUST001240,2022-10-03,Billing & Payments,Price dispute,Low,Escalated,3.100363
+TCK0000967,CUST001241,2022-10-01,Billing & Payments,Duplicate charge,Medium,Pending,3.0104127
+TCK0000974,CUST001248,2025-05-31,Content,Content removed,Low,Escalated,3.6455505
+TCK0000975,CUST001248,2024-01-12,Billing & Payments,Price dispute,Low,Pending,2.9668782
+TCK0000977,CUST001249,2022-06-17,Billing & Payments,Price dispute,Low,Pending,2.8317034
+TCK0000981,CUST001253,2023-06-29,Billing & Payments,Price dispute,Low,Escalated,2.9098291
+TCK0000985,CUST001260,2026-03-26,Billing & Payments,Refund request,Low,Pending,2.858923
+TCK0000988,CUST001269,2026-01-12,Content,Missing subtitles,Low,Escalated,3.4997277
+TCK0000991,CUST001272,2026-03-17,Content,Missing subtitles,Low,Pending,3.6040344
+TCK0000994,CUST001274,2026-05-28,Billing & Payments,Refund request,Low,Pending,2.9876301
+TCK0000995,CUST001275,2023-06-22,Subscription,Plan upgrade request,High,Pending,3.5267043
+TCK0000996,CUST001276,2025-09-13,Billing & Payments,Price dispute,High,Pending,2.947422
+TCK0001001,CUST001279,2025-11-01,Streaming Quality,Buffering,Medium,Escalated,3.054754
+TCK0001005,CUST001284,2024-12-27,Billing & Payments,Price dispute,Medium,Pending,2.5961971
+TCK0001007,CUST001285,2024-01-20,Streaming Quality,App crashing,High,Escalated,3.0225723
+TCK0001010,CUST001293,2025-08-12,Account Access,Login failure,Low,Escalated,3.4430773
+TCK0001011,CUST001293,2025-05-21,Billing & Payments,Duplicate charge,Low,Pending,2.6031682
+TCK0001012,CUST001294,2025-12-24,Account Access,Login failure,Low,Escalated,3.2277987
+TCK0001017,CUST001300,2026-02-02,Billing & Payments,Failed payment,Low,Escalated,3.0619657
+TCK0001022,CUST001307,2023-05-01,Billing & Payments,Refund request,High,Escalated,3.084578
+TCK0001023,CUST001309,2026-04-14,Subscription,Auto-renew complaint,Medium,Pending,3.4600844
+TCK0001025,CUST001312,2025-10-04,Streaming Quality,Low resolution,Medium,Escalated,3.2691243
+TCK0001033,CUST001325,2026-06-08,Streaming Quality,Audio sync issue,Medium,Pending,3.0252728
+TCK0001035,CUST001326,2022-03-29,Device & App,Download failure,High,Pending,3.5569234
+TCK0001040,CUST001331,2025-06-30,Streaming Quality,App crashing,Low,Pending,3.1553993
+TCK0001048,CUST001337,2026-04-01,Streaming Quality,Buffering,Low,Pending,3.2391646
+TCK0001050,CUST001340,2025-09-29,Subscription,Plan upgrade request,Low,Pending,3.2292686
+TCK0001064,CUST001356,2023-04-09,Content,Content unavailable in region,Critical,Pending,3.6121976
+TCK0001068,CUST001363,2024-02-07,Account Access,Account locked,Medium,Escalated,3.4993477
+TCK0001078,CUST001377,2022-04-04,Billing & Payments,Refund request,Low,Pending,3.0554235
+TCK0001079,CUST001378,2024-03-24,Streaming Quality,App crashing,Low,Pending,2.9751866
+TCK0001086,CUST001402,2023-08-11,Content,Missing subtitles,Low,Escalated,3.5203006
+TCK0001087,CUST001402,2025-11-04,Billing & Payments,Refund request,Low,Pending,3.1769116
+TCK0001091,CUST001408,2022-02-18,Streaming Quality,Buffering,Low,Pending,3.101731
+TCK0001092,CUST001408,2022-10-02,Account Access,Account locked,Low,Escalated,3.4759712
+TCK0001096,CUST001413,2025-06-26,Device & App,Download failure,Critical,Escalated,3.5674572
+TCK0001098,CUST001415,2024-04-01,Billing & Payments,Failed payment,Low,Pending,3.0936685
+TCK0001099,CUST001416,2026-01-01,Device & App,App not loading,Medium,Escalated,3.6211154
+TCK0001104,CUST001424,2024-06-05,Account Access,Account locked,Medium,Pending,3.7230093
+TCK0001114,CUST001439,2025-06-02,Streaming Quality,Low resolution,Critical,Pending,2.887631
+TCK0001121,CUST001455,2026-01-17,Account Access,Login failure,High,Escalated,3.5531716
+TCK0001123,CUST001461,2024-03-26,Streaming Quality,Low resolution,Low,Escalated,3.2080033
+TCK0001128,CUST001465,2026-03-10,Subscription,Plan upgrade request,High,Escalated,3.5567
+TCK0001131,CUST001468,2026-06-02,Account Access,Email verification issue,Low,Escalated,3.4883046
+TCK0001134,CUST001471,2024-10-10,Account Access,Login failure,Low,Escalated,3.4651833
+TCK0001138,CUST001473,2026-04-16,Device & App,Device not supported,Medium,Pending,3.4673243
+TCK0001139,CUST001474,2025-06-19,Streaming Quality,Audio sync issue,Medium,Escalated,3.0296454
+TCK0001142,CUST001477,2025-09-05,Content,Missing subtitles,High,Escalated,3.6567156
+TCK0001144,CUST001480,2025-10-18,Subscription,Plan upgrade request,Medium,Pending,3.480219
+TCK0001152,CUST001486,2025-08-20,Content,Missing subtitles,Low,Escalated,3.4858932
+TCK0001153,CUST001487,2025-01-24,Subscription,Plan upgrade request,Low,Pending,3.5869071
+TCK0001162,CUST001499,2026-04-29,Billing & Payments,Duplicate charge,High,Pending,3.0177872
+TCK0001169,CUST001508,2025-01-10,Billing & Payments,Price dispute,Critical,Pending,2.9903553
+TCK0001172,CUST001510,2023-02-28,Subscription,Auto-renew complaint,Low,Pending,3.5563707
+TCK0001175,CUST001516,2020-09-05,Streaming Quality,Audio sync issue,High,Escalated,3.171985
+TCK0001205,CUST001545,2023-10-04,Billing & Payments,Invoice question,Low,Pending,2.9710605
+TCK0001208,CUST001548,2024-08-11,Account Access,Email verification issue,Low,Pending,3.5378993
+TCK0001209,CUST001548,2024-04-13,Account Access,Login failure,Low,Escalated,3.6931913
+TCK0001211,CUST001550,2022-10-05,Subscription,Cancellation request,Low,Pending,3.4786193
+TCK0001215,CUST001558,2023-05-26,Billing & Payments,Invoice question,Low,Pending,2.8381438
+TCK0001216,CUST001559,,Subscription,Cancellation request,Low,Pending,3.4008882
+TCK0001230,CUST001575,2022-10-26,Billing & Payments,Failed payment,Medium,Escalated,2.97137
+TCK0001242,CUST001590,2021-05-27,Account Access,Account locked,Low,Pending,3.561463
+TCK0001247,CUST001592,2025-12-04,Device & App,Device not supported,Low,Pending,3.3763874
+TCK0001252,CUST001595,2020-08-22,Billing & Payments,Price dispute,Low,Pending,3.1452663
+TCK0001268,CUST001619,2024-11-01,Account Access,Login failure,High,Escalated,3.3823307
+TCK0001273,CUST001624,2021-05-01,Streaming Quality,Low resolution,Medium,Escalated,3.0308318
+TCK0001274,CUST001626,2023-02-15,Billing & Payments,Duplicate charge,Medium,Escalated,3.1484303
+TCK0001277,CUST001628,2020-12-28,Streaming Quality,Audio sync issue,High,Pending,2.9355748
+TCK0001280,CUST001639,2024-12-05,Device & App,Device not supported,Low,Escalated,3.4421859
+TCK0001281,CUST001640,2025-11-18,Billing & Payments,Invoice question,Low,Escalated,2.9799547
+TCK0001284,CUST001647,2023-10-02,Account Access,Email verification issue,Low,Pending,3.4404943
+TCK0001285,CUST001649,2023-10-20,Billing & Payments,Refund request,High,Escalated,2.9832883
+TCK0001289,CUST001654,2024-08-25,Streaming Quality,Buffering,Medium,Pending,3.034993
+TCK0001299,CUST001667,2022-09-06,Subscription,Auto-renew complaint,Low,Pending,3.3572392
+TCK0001303,CUST001670,,Device & App,Device not supported,Low,Escalated,3.5424507
+TCK0001304,CUST001670,2025-04-04,Subscription,Plan upgrade request,Medium,Pending,3.680725
+TCK0001305,CUST001672,2023-06-18,Streaming Quality,App crashing,High,Escalated,3.049908
+TCK0001306,CUST001673,2024-09-05,Streaming Quality,Low resolution,Low,Pending,2.9044244
+TCK0001308,CUST001675,2026-04-10,Device & App,Download failure,Low,Escalated,3.712083
+TCK0001309,CUST001675,2026-04-21,Billing & Payments,Price dispute,High,Pending,2.9898348
+TCK0001313,CUST001682,2024-09-23,Streaming Quality,Audio sync issue,Low,Escalated,3.0261223
+TCK0001314,CUST001682,2026-06-15,Account Access,Account locked,Medium,Pending,3.4925725
+TCK0001315,CUST001683,2020-11-25,Device & App,App not loading,High,Escalated,3.5151296
+TCK0001316,CUST001683,2023-05-19,Streaming Quality,Audio sync issue,Medium,Pending,3.0085008
+TCK0001325,CUST001703,2026-02-05,Subscription,Auto-renew complaint,Low,Pending,3.45881
+TCK0001332,CUST001710,2026-05-30,Billing & Payments,Refund request,High,Pending,3.1499734
+TCK0001333,CUST001717,2023-08-13,Content,Missing subtitles,High,Pending,3.5091736
+TCK0001336,CUST001720,2023-11-06,Account Access,Email verification issue,Critical,Escalated,3.5114186
+TCK0001340,CUST001725,2023-09-14,Billing & Payments,Price dispute,Low,Escalated,3.012482
+TCK0001345,CUST001736,2024-04-29,Device & App,App not loading,Low,Escalated,3.5630646
+TCK0001347,CUST001736,2023-03-01,Account Access,Password reset,Low,Pending,3.5615785
+TCK0001349,CUST001737,2023-01-05,Device & App,Download failure,Low,Pending,3.5878122
+TCK0001356,CUST001754,2025-03-19,Subscription,Cancellation request,Medium,Pending,3.3711674
+TCK0001359,CUST001762,2026-04-23,Account Access,Email verification issue,High,Escalated,3.6268601
+TCK0001360,CUST001763,2021-04-29,Content,Missing subtitles,Medium,Pending,3.5174952
+TCK0001376,CUST001792,2025-01-05,Streaming Quality,Low resolution,Low,Pending,2.6760435
+TCK0001378,CUST001795,2024-10-16,Subscription,Auto-renew complaint,Low,Pending,3.5765138
+TCK0001385,CUST001801,2024-05-26,Billing & Payments,Invoice question,Medium,Pending,2.8630762
+TCK0001389,CUST001806,2022-12-01,Billing & Payments,Invoice question,Low,Pending,3.5428932
+TCK0001396,CUST001813,2026-06-03,Account Access,Account locked,Low,Escalated,3.4697618
+TCK0001402,CUST001816,2024-03-15,Account Access,Password reset,Medium,Pending,3.493342
+TCK0001403,CUST001818,2025-10-17,Streaming Quality,App crashing,Medium,Escalated,2.9960637
+TCK0001405,CUST001820,2025-04-19,Billing & Payments,Refund request,High,Pending,3.0325232
+TCK0001412,CUST001836,2025-03-17,Streaming Quality,App crashing,High,Escalated,3.0080965
+TCK0001413,CUST001837,2026-04-24,Billing & Payments,Refund request,Low,Pending,2.9326348
+TCK0001416,CUST001840,2026-01-14,Streaming Quality,App crashing,High,Pending,3.202722
+TCK0001422,CUST001844,2024-10-26,Account Access,Password reset,Low,Escalated,3.6319711
+TCK0001425,CUST001846,2023-12-09,Billing & Payments,Failed payment,Medium,Pending,3.0362937
+TCK0001427,CUST001851,,Account Access,Email verification issue,Medium,Pending,3.3281593
+TCK0001435,CUST001860,2026-03-14,Streaming Quality,Audio sync issue,Low,Pending,3.087027
+TCK0001439,CUST001864,2025-10-30,Subscription,Cancellation request,Low,Pending,3.3663518
+TCK0001444,CUST001873,2022-07-04,Billing & Payments,Price dispute,Medium,Pending,3.0108278
+TCK0001447,CUST001876,2023-01-24,Streaming Quality,Audio sync issue,Low,Escalated,3.0501208
+TCK0001451,CUST001884,2019-11-20,Subscription,Cancellation request,Medium,Escalated,3.3223276
+TCK0001453,CUST001885,2026-04-20,Billing & Payments,Duplicate charge,Medium,Escalated,2.9950867
+TCK0001455,CUST001887,2022-05-03,Subscription,Plan upgrade request,Low,Escalated,3.0393689
+TCK0001458,CUST001891,2025-01-23,Billing & Payments,Failed payment,Medium,Pending,2.8918464
+TCK0001474,CUST001916,2025-11-21,Subscription,Plan upgrade request,High,Pending,3.5248034
+TCK0001476,CUST001920,2023-12-23,Streaming Quality,Low resolution,Medium,Pending,2.9346135
+TCK0001479,CUST001926,2025-11-14,Content,Content unavailable in region,Low,Pending,3.6944466
+TCK0001483,CUST001934,2021-11-10,Billing & Payments,Price dispute,Low,Escalated,3.2841094
+TCK0001485,CUST001934,2021-11-09,Account Access,Password reset,Medium,Pending,3.3947976
+TCK0001487,CUST001936,2025-09-15,Billing & Payments,Invoice question,High,Pending,2.9751036
+TCK0001489,CUST001939,2024-02-22,Account Access,Account locked,High,Pending,3.5614514
+TCK0001493,CUST001944,2021-03-17,Subscription,Auto-renew complaint,High,Pending,3.5917065
+TCK0001494,CUST001945,2026-03-26,Subscription,Cancellation request,Low,Escalated,3.7127554
+TCK0001497,CUST001951,2025-01-27,Billing & Payments,Refund request,Medium,Pending,3.0556562
+TCK0001507,CUST001969,2026-06-26,Account Access,Email verification issue,Low,Escalated,3.5348387
+TCK0001516,CUST001990,2022-08-16,Account Access,Email verification issue,High,Escalated,3.4816797
+TCK0001521,CUST001995,2026-05-26,Device & App,Device not supported,Low,Pending,3.709387
+TCK0001525,CUST001999,2025-08-25,Streaming Quality,Buffering,Medium,Escalated,3.0271564
+TCK0001526,CUST002002,2025-07-12,Account Access,Login failure,Critical,Pending,3.5130582
+TCK0001529,CUST002008,2025-01-16,Subscription,Cancellation request,Critical,Pending,3.3177571
+TCK0001537,CUST002018,2021-04-07,Device & App,App not loading,High,Pending,3.554372
+TCK0001538,CUST002020,2026-01-01,Device & App,App not loading,High,Pending,3.5560935
+TCK0001541,CUST002024,2025-07-15,Device & App,Download failure,Medium,Pending,3.5451133
+TCK0001542,CUST002024,2025-11-21,Streaming Quality,Low resolution,Medium,Pending,2.9654212
+TCK0001546,CUST002028,2025-05-03,Content,Content removed,High,Escalated,3.8493884
+TCK0001549,CUST002038,2024-08-20,Account Access,Login failure,High,Escalated,3.4437647
+TCK0001551,CUST002042,2022-10-24,Billing & Payments,Failed payment,Medium,Escalated,3.018189
+TCK0001553,CUST002042,2024-11-06,Streaming Quality,Low resolution,High,Pending,2.9783797
+TCK0001558,CUST002047,2025-07-11,Billing & Payments,Price dispute,Low,Pending,2.321657
+TCK0001560,CUST002050,2025-07-02,Billing & Payments,Price dispute,Low,Pending,2.9455729
+TCK0001564,CUST002054,2023-11-11,Content,Content unavailable in region,Medium,Escalated,3.4529495
+TCK0001568,CUST002059,2024-03-16,Subscription,Plan downgrade request,Low,Pending,3.628295
+TCK0001571,CUST002061,2026-01-31,Subscription,Cancellation request,Medium,Pending,3.441067
+TCK0001573,CUST002067,2022-10-16,Billing & Payments,Refund request,Medium,Escalated,3.1148272
+TCK0001574,CUST002068,2026-05-29,Billing & Payments,Invoice question,High,Escalated,2.9859295
+TCK0001577,CUST002070,2025-09-21,Account Access,Password reset,High,Escalated,3.3294508
+TCK0001579,CUST002071,2026-02-20,Billing & Payments,Invoice question,High,Escalated,2.9821696
+TCK0001580,CUST002073,2020-07-18,Device & App,Sync across devices,Low,Escalated,3.000552
+TCK0001581,CUST002075,2020-06-20,Subscription,Plan upgrade request,Low,Escalated,3.4856768
+TCK0001582,CUST002076,2025-12-17,Content,Content removed,Medium,Pending,3.4534547
+TCK0001587,CUST002082,2024-08-11,Subscription,Plan upgrade request,Low,Pending,3.72997
+TCK0001588,CUST002084,2021-11-07,Streaming Quality,Audio sync issue,Low,Pending,3.009296
+TCK0001590,CUST002085,2024-04-01,Billing & Payments,Refund request,Medium,Pending,2.9792576
+TCK0001594,CUST002089,2026-04-04,Streaming Quality,Audio sync issue,Low,Pending,3.1771963
+TCK0001595,CUST002089,2026-03-29,Billing & Payments,Failed payment,Medium,Escalated,3.0776803
+TCK0001597,CUST002094,2026-06-29,Account Access,Login failure,Medium,Pending,3.3332405
+TCK0001599,CUST002094,2026-06-04,Content,Content unavailable in region,High,Pending,3.4975753
+TCK0001601,CUST002095,2023-07-24,Subscription,Plan upgrade request,Low,Escalated,3.4414163
+TCK0001604,CUST002098,2025-07-12,Device & App,Device not supported,Medium,Escalated,3.6301873
+TCK0001610,CUST002108,2024-09-21,Content,Content unavailable in region,Medium,Pending,3.5887215
+TCK0001613,CUST002114,,Billing & Payments,Failed payment,High,Escalated,2.8054907
+TCK0001621,CUST002123,2026-03-13,Streaming Quality,App crashing,Low,Escalated,3.1287374
+TCK0001623,CUST002124,2021-12-26,Account Access,Email verification issue,Low,Escalated,3.5417426
+TCK0001624,CUST002126,2024-09-13,Device & App,App not loading,Medium,Pending,3.4808435
+TCK0001635,CUST002135,2026-06-12,Device & App,App not loading,Low,Escalated,3.3271255
+TCK0001636,CUST002136,2020-10-14,Device & App,App not loading,Low,Pending,3.5371242
+TCK0001638,CUST002139,2024-06-25,Device & App,Sync across devices,Low,Escalated,3.623856
+TCK0001643,CUST002143,2026-02-10,Device & App,Device not supported,Medium,Escalated,3.4656029
+TCK0001644,CUST002145,2025-03-19,Subscription,Plan downgrade request,Low,Pending,3.4889107
+TCK0001648,CUST002149,2020-09-25,Device & App,Download failure,Low,Pending,3.6768591
+TCK0001649,CUST002154,2026-05-08,Content,Content unavailable in region,Low,Pending,3.252842
+TCK0001651,CUST002154,2024-10-25,Billing & Payments,Failed payment,High,Escalated,2.8972802
+TCK0001652,CUST002158,2025-01-09,Device & App,App not loading,Low,Escalated,3.5869823
+TCK0001653,CUST002160,2025-03-18,Subscription,Cancellation request,Medium,Pending,3.5089507
+TCK0001655,CUST002160,2024-03-30,Streaming Quality,App crashing,Medium,Pending,3.0828052
+TCK0001657,CUST002160,2025-12-13,Subscription,Cancellation request,High,Pending,3.4302628
+TCK0001662,CUST002164,2020-12-30,Billing & Payments,Price dispute,High,Pending,2.9002006
+TCK0001672,CUST002177,2025-06-13,Account Access,Password reset,Medium,Escalated,3.448015
+TCK0001673,CUST002177,2023-12-05,Device & App,App not loading,Low,Pending,3.4665742
+TCK0001676,CUST002179,2026-01-23,Device & App,Download failure,Medium,Pending,3.9003677
+TCK0001678,CUST002179,2026-05-24,Device & App,App not loading,Medium,Pending,3.4708035
+TCK0001682,CUST002184,2026-03-05,Content,Missing subtitles,Medium,Pending,3.517059
+TCK0001683,CUST002186,2025-11-11,Account Access,Account locked,High,Escalated,3.5594947
+TCK0001689,CUST002196,2026-06-30,Billing & Payments,Duplicate charge,Medium,Pending,2.5298576
+TCK0001692,CUST002200,2026-04-05,Billing & Payments,Invoice question,Critical,Pending,2.6929047
+TCK0001698,CUST002207,2025-11-03,Streaming Quality,Buffering,Medium,Pending,3.2511194
+TCK0001701,CUST002215,2026-06-20,Subscription,Auto-renew complaint,Low,Escalated,3.7426088
+TCK0001713,CUST002224,2026-06-13,Content,Content unavailable in region,Medium,Pending,3.7451124
+TCK0001719,CUST002229,2025-12-29,Content,Missing subtitles,Low,Escalated,3.398283
+TCK0001722,CUST002236,2024-09-30,Account Access,Account locked,Medium,Pending,3.4464908
+TCK0001724,CUST002238,2023-10-09,Subscription,Plan downgrade request,High,Escalated,3.4509354
+TCK0001741,CUST002269,2025-09-30,Streaming Quality,Low resolution,High,Pending,2.9873934
+TCK0001742,CUST002269,2026-04-20,Subscription,Auto-renew complaint,Critical,Pending,3.6066926
+TCK0001744,CUST002270,2026-02-01,Streaming Quality,Low resolution,High,Pending,3.0289018
+TCK0001747,CUST002272,2024-06-02,Account Access,Login failure,Low,Pending,3.5113645
+TCK0001748,CUST002273,2026-06-12,Billing & Payments,Duplicate charge,Low,Pending,3.010418
+TCK0001760,CUST002284,2026-05-11,Billing & Payments,Invoice question,Critical,Escalated,2.905464
+TCK0001770,CUST002294,2025-12-23,Billing & Payments,Refund request,High,Pending,3.1079051
+TCK0001774,CUST002297,2026-06-03,Billing & Payments,Refund request,Medium,Escalated,2.9171917
+TCK0001776,CUST002301,2025-05-18,Billing & Payments,Price dispute,Medium,Escalated,2.9625373
+TCK0001792,CUST002315,2021-06-13,Billing & Payments,Invoice question,Low,Pending,2.969414
+TCK0001800,CUST002322,2025-05-28,Streaming Quality,Audio sync issue,High,Pending,2.7594974
+TCK0001805,CUST002325,2022-07-24,Subscription,Auto-renew complaint,Medium,Pending,3.5399756
+TCK0001812,CUST002334,2024-09-17,Subscription,Plan downgrade request,Low,Escalated,3.6340165
+TCK0001823,CUST002348,2026-03-04,Billing & Payments,Refund request,High,Pending,3.1110373
+TCK0001826,CUST002351,2026-04-22,Device & App,Download failure,High,Escalated,3.5569234
+TCK0001827,CUST002353,2020-03-05,Billing & Payments,Failed payment,Medium,Escalated,2.9890144
+TCK0001829,CUST002355,2025-05-31,Account Access,Password reset,Medium,Escalated,3.422168
+TCK0001830,CUST002359,2024-02-25,Billing & Payments,Failed payment,Medium,Escalated,2.9688888
+TCK0001834,CUST002363,2026-06-29,Billing & Payments,Price dispute,Low,Pending,2.7418237
+TCK0001840,CUST002369,2022-02-06,Content,Content removed,Medium,Pending,3.4092376
+TCK0001842,CUST002370,2023-11-19,Billing & Payments,Refund request,Medium,Escalated,3.0593774
+TCK0001843,CUST002371,2024-08-30,Billing & Payments,Price dispute,High,Escalated,2.8464913
+TCK0001844,CUST002372,2026-04-10,Account Access,Login failure,Critical,Escalated,3.6408777
+TCK0001846,CUST002373,2025-04-29,Subscription,Auto-renew complaint,Medium,Escalated,3.497544
+TCK0001850,CUST002376,2024-06-18,Account Access,Password reset,Critical,Escalated,3.4855359
+TCK0001852,CUST002377,2026-04-20,Billing & Payments,Invoice question,Low,Pending,2.9747484
+TCK0001855,CUST002380,2024-06-12,Subscription,Plan upgrade request,Medium,Pending,3.370027
+TCK0001858,CUST002385,2025-06-03,Streaming Quality,Audio sync issue,Low,Pending,3.1537006
+TCK0001859,CUST002385,2024-05-25,Device & App,Sync across devices,Medium,Pending,3.6636374
+TCK0001862,CUST002389,2023-04-10,Content,Content unavailable in region,Medium,Pending,3.5282145
+TCK0001865,CUST002391,2026-06-28,Streaming Quality,App crashing,Medium,Escalated,3.1028178
+TCK0001871,CUST002400,2024-01-24,Streaming Quality,Audio sync issue,Medium,Pending,2.9778278
+TCK0001877,CUST002409,2024-03-20,Content,Content removed,Low,Pending,3.4268434
+TCK0001880,CUST002412,2021-11-21,Account Access,Password reset,Medium,Pending,3.2929754
+TCK0001881,CUST002414,2026-04-01,Billing & Payments,Refund request,Medium,Pending,3.0756662
+TCK0001882,CUST002414,2026-03-06,Account Access,Login failure,Low,Escalated,3.651908
+TCK0001890,CUST002425,2024-01-15,Subscription,Cancellation request,Low,Escalated,3.4506717
+TCK0001893,CUST002431,2024-12-03,Streaming Quality,Audio sync issue,Critical,Pending,3.0892563
+TCK0001894,CUST002432,2022-08-17,Content,Content removed,Medium,Pending,3.5022225
+TCK0001896,CUST002439,2025-05-09,Billing & Payments,Price dispute,Medium,Pending,2.9092379
+TCK0001898,CUST002440,2025-11-15,Streaming Quality,App crashing,Low,Pending,3.1577861
+TCK0001899,CUST002441,2023-09-02,Streaming Quality,Buffering,Low,Pending,3.1227314
+TCK0001905,CUST002452,2025-09-29,Account Access,Email verification issue,Low,Pending,3.485987
+TCK0001906,CUST002453,2019-09-01,Billing & Payments,Failed payment,Medium,Escalated,2.881687
+TCK0001907,CUST002455,2026-05-26,Billing & Payments,Price dispute,High,Pending,3.027351
+TCK0001909,CUST002457,2023-06-17,Billing & Payments,Invoice question,Medium,Escalated,2.9640534
+TCK0001917,CUST002474,2024-06-28,Subscription,Auto-renew complaint,Critical,Pending,3.474624
+TCK0001919,CUST002479,2023-07-30,Billing & Payments,Duplicate charge,High,Escalated,3.278813
+TCK0001920,CUST002481,2022-10-14,Streaming Quality,Audio sync issue,Low,Escalated,3.0914552
+TCK0001925,CUST002485,2025-08-23,Billing & Payments,Duplicate charge,High,Pending,2.621257
+TCK0001927,CUST002485,2025-12-27,Account Access,Login failure,High,Pending,3.2324402
+TCK0001928,CUST002487,2025-10-06,Content,Missing subtitles,Medium,Pending,3.5302672
+TCK0001930,CUST002490,2022-04-04,Billing & Payments,Price dispute,Low,Pending,2.797851
+TCK0001933,CUST002493,2025-04-16,Streaming Quality,Buffering,Low,Escalated,3.0929267
+TCK0001942,CUST002499,2022-11-25,Billing & Payments,Failed payment,Low,Pending,3.036581
+TCK0001943,CUST002499,2025-11-15,Billing & Payments,Invoice question,Critical,Pending,2.9782853
+TCK0001947,CUST002506,2025-09-06,Content,Content removed,Low,Pending,3.6455033
+TCK0001953,CUST002513,2026-01-13,Streaming Quality,Audio sync issue,High,Pending,2.7077732
+TCK0001955,CUST002515,2022-05-02,Account Access,Email verification issue,Critical,Pending,3.4573
+TCK0001963,CUST002522,2023-07-04,Device & App,Device not supported,Medium,Escalated,3.51227
+TCK0001964,CUST002525,2026-06-24,Account Access,Login failure,Medium,Escalated,3.3011549
+TCK0001965,CUST002526,2023-02-02,Subscription,Plan upgrade request,Medium,Pending,3.5035915
+TCK0001966,CUST002527,2024-08-08,Billing & Payments,Price dispute,Low,Escalated,3.1774755
+TCK0001969,CUST002532,2026-05-07,Billing & Payments,Duplicate charge,Medium,Pending,3.0469267
+TCK0001976,CUST002538,2024-02-05,Account Access,Email verification issue,Low,Escalated,3.4540422
+TCK0001986,CUST002553,2025-08-19,Content,Missing subtitles,Medium,Escalated,3.5218015
+TCK0001988,CUST002556,2025-02-11,Billing & Payments,Invoice question,Critical,Pending,2.993683
+TCK0001998,CUST002563,2024-12-21,Streaming Quality,Low resolution,Low,Pending,3.2621431
+TCK0002003,CUST002570,2026-01-22,Billing & Payments,Refund request,Low,Pending,3.0876162
+TCK0002005,CUST002574,2024-07-30,Device & App,Sync across devices,Low,Pending,3.651903
+TCK0002007,CUST002579,2025-05-30,Subscription,Auto-renew complaint,Critical,Escalated,3.6184433
+TCK0002009,CUST002580,2021-03-17,Billing & Payments,Failed payment,Medium,Pending,3.0999017
+TCK0002010,CUST002582,2025-08-22,Billing & Payments,Price dispute,Low,Escalated,2.8725867
+TCK0002011,CUST002583,2026-05-21,Streaming Quality,App crashing,High,Escalated,3.170065
+TCK0002012,CUST002585,2026-01-29,Device & App,Download failure,High,Escalated,3.5569234
+TCK0002014,CUST002587,2025-10-05,Billing & Payments,Failed payment,Medium,Escalated,2.9066863
+TCK0002016,CUST002589,2026-03-07,Account Access,Login failure,Low,Pending,3.507933
+TCK0002018,CUST002589,2025-05-14,Device & App,Device not supported,Critical,Escalated,3.6595292
+TCK0002019,CUST002589,2024-10-10,Device & App,App not loading,Medium,Pending,3.51076
+TCK0002021,CUST002590,2026-03-01,Subscription,Plan upgrade request,Low,Pending,3.5232203
+TCK0002023,CUST002592,2024-02-01,Billing & Payments,Refund request,Low,Pending,3.0617929
+TCK0002041,CUST002609,2024-07-20,Account Access,Email verification issue,Low,Pending,3.564526
+TCK0002048,CUST002618,2025-01-17,Billing & Payments,Price dispute,High,Pending,3.160556
+TCK0002050,CUST002622,2025-06-11,Account Access,Login failure,Low,Escalated,3.4404614
+TCK0002059,CUST002638,2025-04-29,Content,Missing subtitles,High,Pending,3.5706036
+TCK0002066,CUST002648,2023-05-13,Account Access,Account locked,Medium,Pending,3.6007004
+TCK0002068,CUST002649,2022-09-06,Billing & Payments,Invoice question,Medium,Pending,2.939775
+TCK0002069,CUST002649,2023-09-05,Content,Content unavailable in region,Low,Pending,3.44089
+TCK0002072,CUST002652,2022-12-24,Streaming Quality,Low resolution,High,Pending,2.7154112
+TCK0002073,CUST002655,2023-07-30,Account Access,Account locked,Medium,Pending,3.6058424
+TCK0002076,CUST002658,2025-03-08,Device & App,App not loading,Medium,Escalated,3.6193337
+TCK0002084,CUST002667,2026-02-06,Content,Content unavailable in region,Medium,Escalated,2.8959298
+TCK0002087,CUST002670,2021-05-29,Content,Content unavailable in region,Medium,Pending,3.452335
+TCK0002089,CUST002670,2023-09-14,Billing & Payments,Invoice question,Medium,Pending,2.9223692
+TCK0002091,CUST002672,2022-06-02,Billing & Payments,Price dispute,Low,Pending,3.1302536
+TCK0002092,CUST002672,2021-05-31,Subscription,Plan downgrade request,High,Pending,3.4430048
+TCK0002100,CUST002679,2021-11-13,Streaming Quality,Audio sync issue,High,Pending,2.9505808
+TCK0002103,CUST002681,2026-03-27,Billing & Payments,Refund request,Medium,Pending,3.0065775
+TCK0002106,CUST002685,2026-05-16,Billing & Payments,Refund request,Medium,Escalated,3.122509
+TCK0002111,CUST002692,2021-11-03,Subscription,Plan upgrade request,Critical,Pending,3.8440647
+TCK0002114,CUST002697,2024-12-20,Device & App,Sync across devices,Low,Escalated,3.6282337
+TCK0002116,CUST002708,2021-02-15,Subscription,Cancellation request,Low,Pending,3.4506717
+TCK0002120,CUST002714,2024-05-12,Subscription,Auto-renew complaint,Medium,Pending,3.3961563
+TCK0002130,CUST002723,2021-12-25,Account Access,Password reset,Low,Pending,3.2714536
+TCK0002135,CUST002726,2026-03-19,Subscription,Plan downgrade request,High,Pending,3.5389607
+TCK0002136,CUST002727,2026-03-16,Billing & Payments,Duplicate charge,High,Pending,3.2283125
+TCK0002140,CUST002734,2026-02-05,Billing & Payments,Refund request,Medium,Escalated,3.0989292
+TCK0002143,CUST002739,2023-04-16,Subscription,Cancellation request,Medium,Pending,3.752756
+TCK0002149,CUST002748,2025-08-15,Subscription,Auto-renew complaint,Low,Escalated,3.5523872
+TCK0002150,CUST002748,2025-07-30,Subscription,Cancellation request,High,Escalated,3.4163752
+TCK0002152,CUST002750,2025-02-20,Account Access,Password reset,Low,Escalated,3.7951765
+TCK0002153,CUST002751,2026-04-07,Billing & Payments,Invoice question,Low,Pending,3.0135367
+TCK0002154,CUST002751,2024-06-01,Billing & Payments,Refund request,Critical,Pending,3.1098936
+TCK0002157,CUST002755,2026-06-21,Content,Missing subtitles,Critical,Escalated,3.5421174
+TCK0002158,CUST002755,2026-01-10,Device & App,App not loading,Critical,Pending,3.6910994
+TCK0002159,CUST002759,2021-05-31,Billing & Payments,Refund request,Low,Escalated,2.9743242
+TCK0002162,CUST002764,2026-06-22,Account Access,Login failure,High,Escalated,3.4294038
+TCK0002163,CUST002765,2024-07-09,Subscription,Plan downgrade request,High,Pending,3.4907982
+TCK0002165,CUST002768,2025-12-05,Billing & Payments,Duplicate charge,Medium,Pending,3.0809386
+TCK0002169,CUST002771,2025-11-23,Billing & Payments,Failed payment,Low,Escalated,2.989455
+TCK0002174,CUST002777,2025-08-27,Device & App,Device not supported,Medium,Escalated,3.4397576
+TCK0002178,CUST002779,2022-08-14,Content,Content removed,Medium,Pending,3.5902069
+TCK0002184,CUST002782,2025-06-12,Device & App,Device not supported,Medium,Pending,3.4371417
+TCK0002187,CUST002786,2025-05-25,Streaming Quality,Audio sync issue,High,Escalated,2.9371333
+TCK0002189,CUST002786,2023-12-12,Streaming Quality,Audio sync issue,Medium,Escalated,3.0766006
+TCK0002191,CUST002788,2024-08-20,Account Access,Account locked,Low,Pending,3.441422
+TCK0002198,CUST002797,2025-02-16,Streaming Quality,App crashing,High,Escalated,2.5842214
+TCK0002199,CUST002798,2024-03-15,Account Access,Password reset,Low,Pending,3.6124127
+TCK0002202,CUST002802,2025-08-03,Account Access,Account locked,Medium,Pending,3.573409
+TCK0002208,CUST002811,2024-04-19,Subscription,Auto-renew complaint,Low,Pending,3.5495842
+TCK0002209,CUST002812,2026-05-06,Account Access,Password reset,Low,Escalated,3.3783684
+TCK0002213,CUST002817,2025-05-14,Streaming Quality,Buffering,High,Escalated,2.808624
+TCK0002217,CUST002823,2024-02-23,Billing & Payments,Failed payment,Medium,Pending,3.0195894
+TCK0002219,CUST002826,2026-03-13,Subscription,Plan upgrade request,Low,Escalated,3.830595
+TCK0002223,CUST002829,2022-09-20,Content,Content removed,Critical,Escalated,2.9244494
+TCK0002230,CUST002837,2025-05-21,Streaming Quality,Audio sync issue,High,Pending,2.8400393
+TCK0002237,CUST002848,2025-04-09,Content,Missing subtitles,Medium,Pending,3.387039
+TCK0002239,CUST002848,2025-07-08,Subscription,Plan downgrade request,Low,Pending,3.4968033
+TCK0002240,CUST002850,2025-03-14,Billing & Payments,Duplicate charge,Medium,Escalated,2.990441
+TCK0002242,CUST002852,2026-05-12,Account Access,Login failure,Low,Escalated,3.4567451
+TCK0002243,CUST002853,2025-06-13,Streaming Quality,App crashing,Low,Pending,3.1077042
+TCK0002253,CUST002862,2022-08-27,Streaming Quality,Buffering,Low,Pending,3.2122118
+TCK0002255,CUST002864,2023-11-30,Content,Content removed,Critical,Pending,3.5351732
+TCK0002256,CUST002865,2025-02-13,Streaming Quality,App crashing,Low,Escalated,3.0622153
+TCK0002258,CUST002867,2022-12-08,Content,Content removed,Low,Escalated,3.4388258
+TCK0002263,CUST002874,2026-06-03,Account Access,Account locked,Medium,Pending,3.4827714
+TCK0002264,CUST002875,2026-05-27,Content,Content removed,Medium,Escalated,3.5092707
+TCK0002267,CUST002876,2026-03-02,Content,Content removed,Low,Pending,3.6860087
+TCK0002282,CUST002899,2026-06-09,Subscription,Plan upgrade request,Medium,Pending,3.4525511
+TCK0002285,CUST002904,2026-06-02,Content,Content unavailable in region,High,Pending,3.3523335
+TCK0002288,CUST002906,2022-09-19,Billing & Payments,Price dispute,Medium,Pending,2.7715535
+TCK0002289,CUST002906,2023-11-29,Subscription,Cancellation request,Medium,Escalated,3.5658176
+TCK0002292,CUST002907,2026-05-25,Subscription,Plan upgrade request,High,Pending,3.4768045
+TCK0002297,CUST002911,2025-07-10,Account Access,Account locked,High,Pending,3.4858873
+TCK0002301,CUST002919,2021-05-20,Subscription,Auto-renew complaint,Critical,Pending,3.5840359
+TCK0002304,CUST002920,2025-10-24,Billing & Payments,Failed payment,Low,Pending,2.9861705
+TCK0002307,CUST002924,2025-04-21,Billing & Payments,Price dispute,Medium,Escalated,3.1182907
+TCK0002310,CUST002927,2025-01-02,Billing & Payments,Refund request,Medium,Escalated,3.1045322
+TCK0002317,CUST002933,2023-01-25,Subscription,Auto-renew complaint,High,Escalated,3.5685916
+TCK0002318,CUST002936,2020-11-25,Content,Missing subtitles,High,Pending,3.49097
+TCK0002321,CUST002938,2020-01-21,Billing & Payments,Refund request,High,Pending,3.0769486
+TCK0002322,CUST002938,2020-10-22,Billing & Payments,Failed payment,Low,Escalated,3.0730717
+TCK0002323,CUST002939,2025-11-11,Account Access,Account locked,High,Pending,3.4843664
+TCK0002329,CUST002945,2025-03-28,Billing & Payments,Price dispute,Medium,Pending,2.7008543
+TCK0002333,CUST002954,2026-04-06,Device & App,Sync across devices,Low,Escalated,3.6458278
+TCK0002336,CUST002955,2025-02-05,Billing & Payments,Price dispute,Low,Escalated,2.920983
+TCK0002339,CUST002955,2023-05-28,Device & App,Download failure,Medium,Pending,3.6293552
+TCK0002340,CUST002956,2022-03-01,Streaming Quality,Low resolution,Medium,Escalated,3.1368275
+TCK0002341,CUST002957,2024-12-23,Subscription,Plan upgrade request,Critical,Escalated,3.5987954
+TCK0002347,CUST002967,2026-03-04,Streaming Quality,Low resolution,Medium,Pending,3.0382025
+TCK0002351,CUST002970,2025-03-02,Device & App,Download failure,Low,Escalated,3.7094815
+TCK0002365,CUST002991,2022-07-16,Streaming Quality,Buffering,Medium,Pending,3.043927
+TCK0002373,CUST003011,2021-09-10,Streaming Quality,Low resolution,Low,Pending,2.9180787
+TCK0002374,CUST003011,2025-12-07,Streaming Quality,Audio sync issue,Critical,Escalated,3.0527275
+TCK0002375,CUST003012,2023-08-10,Streaming Quality,Audio sync issue,Low,Escalated,3.1237211
+TCK0002377,CUST003015,2025-05-16,Streaming Quality,App crashing,Low,Escalated,3.1202984
+TCK0002378,CUST003015,2025-08-28,Billing & Payments,Refund request,Low,Pending,3.0349846
+TCK0002382,CUST003018,2026-04-22,Subscription,Cancellation request,Low,Escalated,3.523022
+TCK0002391,CUST003033,2024-06-26,Streaming Quality,App crashing,High,Pending,2.9405122
+TCK0002394,CUST003040,2025-11-08,Billing & Payments,Refund request,Medium,Escalated,3.09557
+TCK0002396,CUST003041,2025-02-20,Billing & Payments,Refund request,Critical,Escalated,3.1009572
+TCK0002412,CUST003059,2022-07-09,Billing & Payments,Price dispute,Low,Pending,3.1285558
+TCK0002422,CUST003079,2020-12-21,Streaming Quality,Buffering,Low,Escalated,3.0059195
+TCK0002425,CUST003085,2025-01-26,Streaming Quality,App crashing,High,Pending,3.0017958
+TCK0002430,CUST003093,2026-04-12,Billing & Payments,Invoice question,Low,Pending,2.9876544
+TCK0002437,CUST003103,2022-10-28,Billing & Payments,Invoice question,Low,Pending,2.9565747
+TCK0002441,CUST003113,2023-04-04,Billing & Payments,Refund request,Medium,Pending,3.1045322
+TCK0002443,CUST003119,2025-12-15,Streaming Quality,Buffering,Low,Pending,2.9984107
+TCK0002449,CUST003125,2025-11-28,Account Access,Email verification issue,Medium,Pending,3.413409
+TCK0002452,CUST003126,2024-05-30,Account Access,Login failure,Low,Escalated,3.3430638
+TCK0002459,CUST003140,2024-12-17,Subscription,Auto-renew complaint,Medium,Escalated,3.5108094
+TCK0002460,CUST003140,2025-02-08,Streaming Quality,Low resolution,Medium,Pending,2.708006
+TCK0002462,CUST003141,2022-04-13,Content,Missing subtitles,Low,Pending,3.5235043
+TCK0002464,CUST003142,2026-06-06,Billing & Payments,Refund request,High,Pending,3.0750136
+TCK0002465,CUST003144,2022-10-02,Subscription,Cancellation request,Medium,Pending,3.5054986
+TCK0002466,CUST003145,2025-12-01,Device & App,Download failure,Medium,Pending,3.4959254
+TCK0002472,CUST003153,2025-03-11,Streaming Quality,Low resolution,High,Pending,3.0625725
+TCK0002478,CUST003156,2026-03-27,Streaming Quality,Audio sync issue,Medium,Pending,2.8334842
+TCK0002482,CUST003160,2024-10-05,Subscription,Plan upgrade request,Medium,Escalated,3.7078245
+TCK0002486,CUST003162,2024-05-11,Account Access,Password reset,Low,Pending,3.4447541
+TCK0002491,CUST003166,2024-11-02,Streaming Quality,Audio sync issue,High,Pending,3.0147772
+TCK0002493,CUST003170,2021-04-07,Billing & Payments,Price dispute,High,Pending,2.8589923
+TCK0002494,CUST003173,2024-12-26,Streaming Quality,Low resolution,Low,Escalated,3.024954
+TCK0002501,CUST003184,2022-10-19,Streaming Quality,App crashing,Low,Escalated,3.2112513
+TCK0002502,CUST003187,2025-09-04,Account Access,Login failure,Low,Pending,3.4086215
+TCK0002508,CUST003193,2021-03-30,Billing & Payments,Refund request,Medium,Escalated,2.8407955
+TCK0002538,CUST003236,2021-06-19,Device & App,Download failure,Medium,Escalated,3.6155612
+TCK0002550,CUST003258,2021-08-13,Account Access,Account locked,Critical,Escalated,3.522582
+TCK0002552,CUST003261,2023-12-25,Streaming Quality,Buffering,Low,Pending,3.018527
+TCK0002561,CUST003275,2026-01-25,Content,Content removed,Medium,Pending,3.5844507
+TCK0002562,CUST003275,2025-05-15,Streaming Quality,Buffering,Critical,Pending,3.019332
+TCK0002578,CUST003293,2026-06-13,Subscription,Cancellation request,Low,Pending,3.3998303
+TCK0002588,CUST003312,2022-10-26,Account Access,Account locked,Low,Escalated,3.5461712
+TCK0002589,CUST003313,2025-01-31,Streaming Quality,Buffering,Low,Pending,3.224526
+TCK0002592,CUST003315,2021-12-12,Account Access,Login failure,Low,Escalated,3.2965288
+TCK0002595,CUST003320,2026-01-13,Account Access,Password reset,Medium,Pending,2.7283747
+TCK0002596,CUST003321,2024-09-14,Account Access,Password reset,Medium,Pending,3.438235
+TCK0002597,CUST003322,2025-04-29,Streaming Quality,App crashing,High,Pending,3.0456398
+TCK0002604,CUST003341,2025-11-04,Subscription,Cancellation request,Low,Pending,3.3611515
+TCK0002608,CUST003346,2026-02-17,Subscription,Auto-renew complaint,Medium,Pending,3.5445461
+TCK0002612,CUST003352,2025-06-16,Billing & Payments,Failed payment,Medium,Pending,3.0125453
+TCK0002618,CUST003359,2025-04-21,Subscription,Auto-renew complaint,Low,Pending,3.4595265
+TCK0002620,CUST003360,2025-03-06,Billing & Payments,Failed payment,Medium,Escalated,2.8928504
+TCK0002625,CUST003364,2025-07-17,Device & App,Device not supported,Medium,Pending,3.4751492
+TCK0002633,CUST003371,2026-02-09,Streaming Quality,App crashing,Medium,Pending,3.159813
+TCK0002634,CUST003372,2024-08-29,Billing & Payments,Duplicate charge,Medium,Escalated,3.1003017
+TCK0002639,CUST003376,2026-03-11,Billing & Payments,Duplicate charge,Low,Pending,3.0404344
+TCK0002646,CUST003385,2025-09-12,Subscription,Plan downgrade request,Medium,Pending,3.5343814
+TCK0002649,CUST003390,2024-08-18,Content,Missing subtitles,Medium,Escalated,3.5093343
+TCK0002663,CUST003405,2023-01-16,Streaming Quality,Audio sync issue,Low,Escalated,3.0838165
+TCK0002673,CUST003417,2026-06-19,Subscription,Auto-renew complaint,Medium,Escalated,3.5285509
+TCK0002674,CUST003419,2023-10-27,Streaming Quality,App crashing,Medium,Escalated,3.0294065
+TCK0002676,CUST003420,2025-12-20,Device & App,Sync across devices,High,Escalated,3.5557742
+TCK0002680,CUST003424,2025-12-24,Account Access,Email verification issue,Critical,Pending,3.3337822
+TCK0002681,CUST003431,2025-11-28,Streaming Quality,Low resolution,Medium,Pending,2.8820457
+TCK0002684,CUST003434,2024-12-04,Account Access,Password reset,Medium,Pending,3.186644
+TCK0002689,CUST003441,2026-06-05,Content,Content removed,Low,Pending,3.5975144
+TCK0002696,CUST003452,2026-06-19,Account Access,Password reset,Low,Pending,3.454187
+TCK0002697,CUST003452,2021-09-30,Billing & Payments,Price dispute,Low,Escalated,2.7088575
+TCK0002699,CUST003455,2025-02-12,Content,Content unavailable in region,Medium,Pending,3.6347177
+TCK0002708,CUST003468,2025-06-07,Billing & Payments,Invoice question,Medium,Pending,3.0233903
+TCK0002710,CUST003469,2021-09-26,Billing & Payments,Price dispute,High,Escalated,3.0806525
+TCK0002711,CUST003470,2025-06-13,Account Access,Password reset,Low,Pending,3.625516
+TCK0002714,CUST003474,2025-07-10,Account Access,Email verification issue,Medium,Pending,3.16709
+TCK0002715,CUST003475,2023-05-04,Subscription,Plan upgrade request,High,Escalated,3.7056746
+TCK0002716,CUST003478,2025-03-26,Content,Missing subtitles,Low,Pending,3.528906
+TCK0002718,CUST003480,2025-07-27,Billing & Payments,Duplicate charge,Medium,Pending,2.7735877
+TCK0002719,CUST003483,2023-03-27,Account Access,Email verification issue,Medium,Pending,3.6550968
+TCK0002722,CUST003488,2026-05-01,Device & App,Download failure,Medium,Pending,3.569437
+TCK0002724,CUST003489,2024-10-26,Account Access,Email verification issue,Low,Pending,3.5072696
+TCK0002726,CUST003492,2026-03-08,Content,Content unavailable in region,Low,Pending,3.6106472
+TCK0002735,CUST003502,2025-06-07,Content,Missing subtitles,High,Escalated,3.5450113
+TCK0002745,CUST003514,2021-02-23,Device & App,Device not supported,Low,Pending,3.540651
+TCK0002747,CUST003520,2025-12-06,Account Access,Email verification issue,Critical,Escalated,3.4395325
+TCK0002754,CUST003529,2023-11-08,Subscription,Cancellation request,Medium,Escalated,3.4540267
+TCK0002756,CUST003530,2024-09-07,Account Access,Account locked,Medium,Pending,3.5572782
+TCK0002757,CUST003533,2024-09-09,Billing & Payments,Price dispute,High,Pending,3.0678644
+TCK0002762,CUST003539,2025-02-25,Subscription,Auto-renew complaint,Medium,Pending,3.5445461
+TCK0002765,CUST003545,2020-08-29,Billing & Payments,Price dispute,High,Pending,2.887713
+TCK0002768,CUST003551,2025-04-29,Streaming Quality,Audio sync issue,Low,Pending,3.244067
+TCK0002777,CUST003568,2024-08-09,Billing & Payments,Failed payment,High,Pending,2.8001435
+TCK0002779,CUST003571,2025-02-10,Subscription,Plan downgrade request,Medium,Pending,3.4825957
+TCK0002784,CUST003576,2021-10-27,Device & App,Download failure,Medium,Escalated,3.6169903
+TCK0002790,CUST003582,2025-08-05,Subscription,Cancellation request,Medium,Pending,3.1816635
+TCK0002791,CUST003582,2024-06-10,Billing & Payments,Price dispute,Low,Pending,3.2571337
+TCK0002793,CUST003584,2023-09-29,Streaming Quality,Audio sync issue,Low,Pending,3.0352418
+TCK0002802,CUST003591,2022-11-13,Subscription,Cancellation request,Low,Escalated,3.4109778
+TCK0002812,CUST003607,2022-07-20,Account Access,Password reset,High,Escalated,3.5232074
+TCK0002814,CUST003607,2026-01-18,Billing & Payments,Invoice question,High,Pending,2.7237592
+TCK0002815,CUST003612,2024-09-06,Device & App,Device not supported,High,Pending,3.573028
+TCK0002817,CUST003615,2025-11-21,Device & App,App not loading,High,Escalated,3.585588
+TCK0002818,CUST003615,2026-01-12,Device & App,Download failure,Medium,Pending,3.5322697
+TCK0002819,CUST003618,2026-05-04,Account Access,Account locked,Medium,Pending,3.4929123
+TCK0002829,CUST003634,2024-08-05,Account Access,Login failure,High,Pending,3.396703
+TCK0002843,CUST003652,2025-03-08,Billing & Payments,Invoice question,Low,Escalated,3.1279223
+TCK0002846,CUST003653,2022-09-08,Streaming Quality,Buffering,Critical,Escalated,3.2158356
+TCK0002848,CUST003655,2023-03-30,Subscription,Plan upgrade request,Low,Pending,3.551173
+TCK0002854,CUST003664,2023-01-11,Subscription,Plan downgrade request,Medium,Pending,3.5038543
+TCK0002855,CUST003667,2025-10-30,Billing & Payments,Refund request,Medium,Escalated,3.0668736
+TCK0002858,CUST003672,2025-10-08,Billing & Payments,Refund request,High,Pending,3.0785878
+TCK0002859,CUST003674,2024-06-07,Billing & Payments,Invoice question,Low,Pending,2.8986652
+TCK0002862,CUST003679,2024-12-03,Billing & Payments,Duplicate charge,High,Escalated,2.987463
+TCK0002864,CUST003682,2024-07-27,Billing & Payments,Duplicate charge,Low,Escalated,2.9639425
+TCK0002867,CUST003694,2025-11-13,Billing & Payments,Failed payment,Low,Escalated,2.7700748
+TCK0002873,CUST003705,2023-08-23,Subscription,Cancellation request,Medium,Pending,3.5594695
+TCK0002875,CUST003706,2025-02-03,Streaming Quality,Low resolution,Medium,Pending,3.0142071
+TCK0002880,CUST003713,2021-12-29,Device & App,Download failure,Low,Pending,3.4487643
+TCK0002883,CUST003720,2024-02-07,Billing & Payments,Invoice question,Low,Escalated,2.7332003
+TCK0002890,CUST003729,2026-05-13,Billing & Payments,Failed payment,Low,Pending,2.926346
+TCK0002900,CUST003740,2023-06-14,Subscription,Auto-renew complaint,High,Escalated,3.2868445
+TCK0002907,CUST003753,2020-10-18,Billing & Payments,Duplicate charge,High,Pending,3.0277104
+TCK0002913,CUST003759,2020-10-28,Billing & Payments,Invoice question,Medium,Pending,2.9147341
+TCK0002917,CUST003766,2025-08-02,Billing & Payments,Failed payment,Medium,Pending,3.2051444
+TCK0002923,CUST003775,2025-06-10,Billing & Payments,Invoice question,Low,Escalated,2.9717727
+TCK0002926,CUST003778,2026-01-09,Device & App,Device not supported,Low,Pending,3.6042647
+TCK0002930,CUST003782,2026-01-10,Billing & Payments,Refund request,High,Escalated,3.343077
+TCK0002939,CUST003790,2026-01-28,Account Access,Password reset,High,Pending,3.5153441
+TCK0002940,CUST003791,2023-03-31,Account Access,Login failure,High,Escalated,3.3863294
+TCK0002947,CUST003800,2026-03-09,Billing & Payments,Refund request,Low,Pending,3.201778
+TCK0002948,CUST003801,2026-05-25,Account Access,Account locked,High,Escalated,3.4925547
+TCK0002958,CUST003819,2026-03-30,Billing & Payments,Duplicate charge,Low,Pending,3.0354118
+TCK0002962,CUST003827,2023-02-19,Subscription,Plan downgrade request,Low,Pending,3.5823362
+TCK0002963,CUST003830,2025-06-01,Streaming Quality,Audio sync issue,Low,Pending,3.1592033
+TCK0002965,CUST003830,2026-05-04,Device & App,App not loading,Critical,Pending,3.4918218
+TCK0002972,CUST003845,2025-09-21,Subscription,Plan upgrade request,Critical,Escalated,3.5526361
+TCK0002976,CUST003846,2025-10-05,Content,Content unavailable in region,Low,Pending,3.3886151
+TCK0002992,CUST003871,2024-05-28,Billing & Payments,Price dispute,Low,Pending,3.1111977
+TCK0002998,CUST003878,2025-09-19,Billing & Payments,Failed payment,Medium,Pending,3.066794
+TCK0003002,CUST003883,2025-02-21,Subscription,Auto-renew complaint,Medium,Pending,3.6191278
+TCK0003007,CUST003888,2024-02-06,Content,Missing subtitles,Medium,Escalated,3.5779924
+TCK0003010,CUST003891,2023-06-10,Subscription,Plan downgrade request,Medium,Pending,3.7004156
+TCK0003011,CUST003892,2020-08-01,Subscription,Plan downgrade request,Low,Pending,3.6039388
+TCK0003013,CUST003896,2025-07-08,Account Access,Login failure,Low,Pending,3.462899
+TCK0003016,CUST003903,2021-09-15,Streaming Quality,Audio sync issue,Medium,Pending,3.0913863
+TCK0003017,CUST003903,2023-04-09,Streaming Quality,Audio sync issue,High,Escalated,2.919434
+TCK0003022,CUST003909,,Streaming Quality,App crashing,Low,Escalated,3.1077042
+TCK0003026,CUST003918,2024-12-09,Content,Missing subtitles,Low,Pending,3.398283
+TCK0003029,CUST003919,2023-11-20,Streaming Quality,Low resolution,High,Pending,2.9063923
+TCK0003034,CUST003927,2025-03-18,Streaming Quality,App crashing,Medium,Pending,2.8957307
+TCK0003046,CUST003943,2023-10-01,Streaming Quality,Buffering,Medium,Escalated,3.0785563
+TCK0003047,CUST003944,2023-08-13,Subscription,Plan upgrade request,High,Escalated,3.5483062
+TCK0003048,CUST003946,2024-04-20,Device & App,App not loading,Low,Pending,3.6597447
+TCK0003050,CUST003947,2024-11-06,Billing & Payments,Price dispute,High,Pending,3.0670972
+TCK0003052,CUST003948,2025-01-15,Content,Content unavailable in region,Critical,Pending,3.5927918
+TCK0003053,CUST003949,2024-02-19,Billing & Payments,Price dispute,Medium,Pending,3.1070414
+TCK0003056,CUST003954,2022-07-02,Content,Missing subtitles,Low,Pending,3.3499477
+TCK0003058,CUST003955,2026-02-16,Subscription,Plan upgrade request,High,Pending,3.504125
+TCK0003059,CUST003955,2026-01-22,Streaming Quality,Buffering,High,Pending,2.94816
+TCK0003060,CUST003956,2021-07-30,Device & App,Download failure,Medium,Escalated,3.5640745
+TCK0003065,CUST003960,2023-06-21,Billing & Payments,Duplicate charge,High,Escalated,2.9193447
+TCK0003070,CUST003972,2026-05-31,Streaming Quality,Audio sync issue,Medium,Pending,3.0016477
+TCK0003075,CUST003983,2025-01-17,Billing & Payments,Price dispute,Critical,Pending,2.5636704
+TCK0003077,CUST003989,2024-09-11,Subscription,Plan upgrade request,Medium,Escalated,3.510195
+TCK0003078,CUST003990,2026-05-08,Subscription,Cancellation request,Medium,Pending,3.5391138
+TCK0003088,CUST003998,2024-08-30,Device & App,Download failure,High,Pending,3.5307677
+TCK0003090,CUST004003,2022-01-04,Billing & Payments,Duplicate charge,Medium,Escalated,3.0801353
+TCK0003094,CUST004012,2022-07-06,Content,Content unavailable in region,Medium,Pending,3.5398045
+TCK0003097,CUST004016,2024-07-26,Billing & Payments,Invoice question,Medium,Pending,3.2884731
+TCK0003098,CUST004019,2024-09-20,Account Access,Login failure,High,Pending,3.296103
+TCK0003103,CUST004024,2023-11-15,Account Access,Email verification issue,Low,Pending,3.5143566
+TCK0003104,CUST004024,2023-09-21,Subscription,Plan downgrade request,Low,Escalated,3.5849786
+TCK0003106,CUST004024,2026-01-08,Account Access,Email verification issue,Medium,Escalated,3.5386186
+TCK0003109,CUST004026,2024-12-14,Billing & Payments,Invoice question,Medium,Pending,2.8440566
+TCK0003111,CUST004027,2025-07-18,Billing & Payments,Invoice question,Critical,Pending,2.906792
+TCK0003138,CUST004051,2024-10-25,Subscription,Plan downgrade request,Medium,Pending,3.5585384
+TCK0003139,CUST004052,2026-05-13,Streaming Quality,Low resolution,Low,Pending,3.1096878
+TCK0003140,CUST004053,2021-08-02,Subscription,Auto-renew complaint,Low,Pending,3.5278857
+TCK0003141,CUST004054,2023-02-19,Streaming Quality,Low resolution,Low,Pending,3.0405536
+TCK0003144,CUST004059,2021-04-19,Streaming Quality,Low resolution,Low,Escalated,3.0673966
+TCK0003145,CUST004066,2020-11-30,Streaming Quality,Buffering,Medium,Pending,3.0007684
+TCK0003147,CUST004071,2026-06-19,Content,Missing subtitles,Low,Escalated,3.6466448
+TCK0003149,CUST004076,2026-06-02,Subscription,Plan downgrade request,Low,Pending,3.517909
+TCK0003153,CUST004086,2025-12-19,Billing & Payments,Duplicate charge,Medium,Pending,3.020356
+TCK0003156,CUST004089,2023-05-10,Billing & Payments,Invoice question,Low,Escalated,3.0331383
+TCK0003158,CUST004090,2019-11-07,Content,Content unavailable in region,Low,Escalated,3.7375295
+TCK0003161,CUST004093,2025-06-21,Streaming Quality,Audio sync issue,Low,Pending,2.9707124
+TCK0003169,CUST004104,2024-12-27,Subscription,Auto-renew complaint,Medium,Escalated,3.585548
+TCK0003172,CUST004106,2024-04-11,Billing & Payments,Invoice question,Low,Pending,2.9676383
+TCK0003176,CUST004111,2023-07-21,Streaming Quality,App crashing,Low,Escalated,3.1301417
+TCK0003193,CUST004137,2024-04-30,Billing & Payments,Price dispute,Low,Escalated,2.633768
+TCK0003203,CUST004149,2024-03-25,Account Access,Email verification issue,Low,Escalated,3.5896595
+TCK0003204,CUST004149,2024-09-20,Streaming Quality,Audio sync issue,High,Pending,2.9282835
+TCK0003206,CUST004153,2024-01-23,Streaming Quality,App crashing,Medium,Pending,3.2133813
+TCK0003207,CUST004155,2026-01-27,Streaming Quality,Buffering,Low,Escalated,3.2877035
+TCK0003218,CUST004163,2025-06-15,Billing & Payments,Invoice question,High,Escalated,2.9375176
+TCK0003223,CUST004170,2026-06-16,Billing & Payments,Price dispute,Medium,Escalated,3.092171
+TCK0003224,CUST004172,2024-08-22,Streaming Quality,App crashing,Critical,Escalated,3.1593516
+TCK0003225,CUST004173,2021-09-27,Device & App,Download failure,Low,Pending,3.5710864
+TCK0003227,CUST004174,2026-04-02,Billing & Payments,Invoice question,Medium,Escalated,2.897035
+TCK0003232,CUST004183,2021-04-23,Billing & Payments,Invoice question,Low,Escalated,2.9603314
+TCK0003233,CUST004185,2025-04-27,Billing & Payments,Duplicate charge,Low,Pending,2.940851
+TCK0003237,CUST004190,2022-02-03,Billing & Payments,Failed payment,High,Pending,3.0328135
+TCK0003241,CUST004195,2026-05-27,Billing & Payments,Refund request,Medium,Escalated,2.478646
+TCK0003243,CUST004197,2025-05-19,Billing & Payments,Refund request,Medium,Escalated,3.0384073
+TCK0003244,CUST004197,2021-10-24,Streaming Quality,App crashing,Low,Escalated,3.1090074
+TCK0003248,CUST004202,2026-05-22,Subscription,Plan downgrade request,Medium,Pending,3.490126
+TCK0003250,CUST004204,2024-02-02,Account Access,Account locked,Medium,Pending,3.4925485
+TCK0003251,CUST004204,2022-11-02,Streaming Quality,Audio sync issue,Low,Pending,2.8191538
+TCK0003253,CUST004211,2020-02-09,Account Access,Password reset,High,Pending,3.3310564
+TCK0003254,CUST004211,2024-07-15,Streaming Quality,Audio sync issue,Critical,Pending,3.208208
+TCK0003261,CUST004222,2025-02-05,Billing & Payments,Duplicate charge,Low,Pending,2.932348
+TCK0003262,CUST004224,2022-02-02,Subscription,Auto-renew complaint,High,Pending,3.330948
+TCK0003263,CUST004227,2026-06-11,Streaming Quality,Audio sync issue,Critical,Escalated,2.9423008
+TCK0003266,CUST004229,2024-11-27,Billing & Payments,Refund request,Medium,Escalated,3.231826
+TCK0003268,CUST004233,2025-11-03,Billing & Payments,Failed payment,Low,Pending,3.1442466
+TCK0003271,CUST004237,2023-09-08,Billing & Payments,Failed payment,Medium,Escalated,2.7930083
+TCK0003273,CUST004239,2026-05-18,Device & App,App not loading,Low,Pending,3.5117762
+TCK0003276,CUST004242,2024-03-15,Device & App,Device not supported,Medium,Pending,3.5181584
+TCK0003284,CUST004254,2025-01-08,Subscription,Plan downgrade request,Medium,Pending,3.2539458
+TCK0003286,CUST004256,2023-03-18,Streaming Quality,Low resolution,Medium,Escalated,3.044594
+TCK0003289,CUST004262,2026-06-01,Content,Missing subtitles,Medium,Pending,3.5870943
+TCK0003296,CUST004268,2025-06-13,Billing & Payments,Failed payment,Low,Escalated,3.059298
+TCK0003299,CUST004272,2023-09-12,Streaming Quality,Audio sync issue,Medium,Pending,3.0600607
+TCK0003304,CUST004284,2023-08-30,Billing & Payments,Failed payment,Medium,Pending,3.1427622
+TCK0003308,CUST004287,2026-03-16,Streaming Quality,Low resolution,Low,Pending,3.019112
+TCK0003309,CUST004288,2024-01-24,Billing & Payments,Invoice question,Medium,Escalated,3.4579694
+TCK0003315,CUST004298,2025-08-25,Account Access,Password reset,Low,Escalated,3.3985934
+TCK0003324,CUST004303,2026-03-23,Billing & Payments,Refund request,Low,Pending,2.9839885
+TCK0003326,CUST004305,2022-05-14,Account Access,Account locked,Medium,Escalated,3.5078976
+TCK0003331,CUST004310,2024-08-18,Subscription,Plan downgrade request,High,Pending,3.4220827
+TCK0003335,CUST004312,2023-09-08,Device & App,Device not supported,Low,Escalated,3.428939
+TCK0003338,CUST004315,2026-04-25,Account Access,Email verification issue,Critical,Pending,3.725473
+TCK0003340,CUST004317,2024-09-30,Billing & Payments,Failed payment,Medium,Pending,2.893988
+TCK0003346,CUST004330,2026-03-11,Billing & Payments,Price dispute,Medium,Escalated,2.905844
+TCK0003348,CUST004332,2025-06-20,Account Access,Account locked,High,Pending,3.468899
+TCK0003351,CUST004334,2024-09-27,Subscription,Plan upgrade request,Medium,Escalated,3.520434
+TCK0003358,CUST004348,2022-11-13,Billing & Payments,Failed payment,High,Escalated,2.9793043
+TCK0003362,CUST004355,2024-05-22,Streaming Quality,App crashing,High,Pending,3.080141
+TCK0003364,CUST004359,2025-01-07,Billing & Payments,Invoice question,Medium,Escalated,2.9006817
+TCK0003366,CUST004360,2025-10-26,Billing & Payments,Refund request,Medium,Escalated,3.2055295
+TCK0003367,CUST004361,2022-07-16,Billing & Payments,Refund request,Medium,Escalated,3.3876278
+TCK0003371,CUST004366,2023-01-27,Streaming Quality,Audio sync issue,Medium,Pending,2.9920204
+TCK0003373,CUST004369,2023-11-03,Account Access,Login failure,High,Escalated,3.3795166
+TCK0003379,CUST004372,2023-09-13,Subscription,Auto-renew complaint,Low,Pending,3.5765138
+TCK0003380,CUST004372,2024-06-04,Account Access,Email verification issue,Medium,Pending,3.4835885
+TCK0003383,CUST004378,2026-06-18,Device & App,Sync across devices,Medium,Pending,3.670224
+TCK0003393,CUST004387,2025-06-25,Billing & Payments,Failed payment,Medium,Pending,3.0143514
+TCK0003394,CUST004389,2026-03-04,Subscription,Plan downgrade request,High,Pending,3.305709
+TCK0003395,CUST004393,2026-04-21,Account Access,Login failure,High,Pending,3.5152593
+TCK0003402,CUST004401,2026-04-12,Streaming Quality,Audio sync issue,High,Pending,2.9945624
+TCK0003408,CUST004404,2021-02-23,Account Access,Login failure,Low,Escalated,3.5689921
+TCK0003410,CUST004407,2021-10-18,Billing & Payments,Duplicate charge,Low,Pending,2.9700804
+TCK0003416,CUST004422,2026-04-20,Content,Content unavailable in region,High,Pending,3.5280538
+TCK0003419,CUST004425,2025-08-09,Device & App,Device not supported,Low,Pending,3.486035
+TCK0003425,CUST004429,2024-11-17,Subscription,Plan upgrade request,Medium,Escalated,3.5222237
+TCK0003428,CUST004433,2024-04-22,Account Access,Password reset,Medium,Pending,3.7207623
+TCK0003429,CUST004433,2022-03-06,Streaming Quality,Low resolution,Low,Escalated,2.858714
+TCK0003430,CUST004433,2023-08-07,Streaming Quality,Buffering,Low,Escalated,3.1267087
+TCK0003436,CUST004444,2024-01-11,Account Access,Account locked,High,Escalated,3.38525
+TCK0003438,CUST004447,2023-05-25,Account Access,Password reset,Low,Pending,3.3825307
+TCK0003441,CUST004453,2025-04-14,Device & App,Download failure,Low,Pending,3.5726807
+TCK0003454,CUST004472,2023-06-02,Streaming Quality,Low resolution,Low,Escalated,3.029482
+TCK0003456,CUST004474,2021-02-22,Account Access,Email verification issue,High,Pending,3.5092795
+TCK0003459,CUST004480,2026-05-18,Streaming Quality,App crashing,Low,Escalated,3.091351
+TCK0003460,CUST004480,2025-12-29,Streaming Quality,Audio sync issue,Medium,Pending,2.9284823
+TCK0003464,CUST004483,2025-10-01,Billing & Payments,Invoice question,High,Escalated,2.6820517
+TCK0003468,CUST004485,2022-06-22,Device & App,Sync across devices,Low,Escalated,3.5894804
+TCK0003474,CUST004494,2025-04-28,Billing & Payments,Price dispute,Critical,Escalated,2.8344162
+TCK0003481,CUST004503,2026-02-06,Device & App,Download failure,High,Pending,3.6351697
+TCK0003483,CUST004504,2025-11-30,Billing & Payments,Invoice question,Low,Escalated,2.8507879
+TCK0003485,CUST004505,2024-05-20,Account Access,Account locked,High,Escalated,3.5882695
+TCK0003492,CUST004516,2025-06-14,Account Access,Email verification issue,High,Escalated,3.55099
+TCK0003503,CUST004524,2025-06-09,Subscription,Plan downgrade request,Critical,Pending,3.5310326
+TCK0003505,CUST004527,2025-09-25,Billing & Payments,Price dispute,Medium,Pending,2.8756788
+TCK0003511,CUST004534,2025-06-10,Device & App,App not loading,Low,Escalated,3.241824
+TCK0003512,CUST004534,2024-04-30,Content,Missing subtitles,Low,Escalated,3.549708
+TCK0003513,CUST004534,2022-10-31,Content,Content removed,Low,Escalated,3.5534365
+TCK0003516,CUST004536,2025-04-05,Content,Content unavailable in region,High,Escalated,3.6499176
+TCK0003518,CUST004536,2025-02-17,Subscription,Plan upgrade request,Low,Escalated,3.4702291
+TCK0003522,CUST004541,2021-09-23,Streaming Quality,App crashing,Low,Escalated,3.106992
+TCK0003524,CUST004543,2025-05-02,Device & App,Sync across devices,High,Pending,3.6285286
+TCK0003525,CUST004547,2022-11-24,Billing & Payments,Refund request,Low,Pending,3.020853
+TCK0003529,CUST004551,2021-10-06,Streaming Quality,App crashing,Low,Pending,2.923256
+TCK0003531,CUST004552,2023-03-02,Content,Content removed,High,Pending,3.484568
+TCK0003533,CUST004554,2025-08-29,Account Access,Email verification issue,Low,Pending,3.595631
+TCK0003535,CUST004558,2025-12-17,Subscription,Cancellation request,Medium,Pending,3.4301777
+TCK0003536,CUST004560,2024-08-05,Billing & Payments,Price dispute,Low,Escalated,3.1910164
+TCK0003542,CUST004573,2020-11-18,Account Access,Account locked,Medium,Escalated,3.4868875
+TCK0003545,CUST004577,2020-08-29,Device & App,Download failure,High,Escalated,3.6122012
+TCK0003560,CUST004590,2026-04-02,Subscription,Plan upgrade request,Critical,Escalated,3.6318676
+TCK0003561,CUST004593,2026-03-24,Subscription,Cancellation request,High,Escalated,3.304973
+TCK0003562,CUST004593,2025-09-14,Device & App,Sync across devices,High,Escalated,3.6385794
+TCK0003566,CUST004599,2026-05-23,Device & App,App not loading,Medium,Pending,3.5891511
+TCK0003570,CUST004605,2025-10-30,Streaming Quality,Low resolution,High,Pending,2.9259892
+TCK0003573,CUST004607,2026-03-08,Content,Content removed,High,Pending,3.4992893
+TCK0003578,CUST004613,2025-11-19,Billing & Payments,Refund request,Medium,Pending,3.1097786
+TCK0003585,CUST004623,2026-01-05,Streaming Quality,Low resolution,Medium,Escalated,3.0162854
+TCK0003587,CUST004634,2026-06-02,Billing & Payments,Refund request,High,Escalated,3.0760317
+TCK0003592,CUST004645,2026-04-19,Account Access,Account locked,Low,Pending,3.6187665
+TCK0003593,CUST004645,2023-02-13,Billing & Payments,Invoice question,Low,Pending,2.9747484
+TCK0003596,CUST004650,2025-02-14,Device & App,Download failure,Low,Pending,3.5875826
+TCK0003601,CUST004652,2026-06-05,Account Access,Account locked,Low,Pending,3.488255
+TCK0003602,CUST004653,2022-01-13,Device & App,Download failure,Critical,Pending,3.5814009
+TCK0003605,CUST004658,2026-05-24,Streaming Quality,Buffering,High,Pending,3.010703
+TCK0003606,CUST004659,2021-09-16,Subscription,Plan upgrade request,Medium,Pending,3.4966202
+TCK0003608,CUST004665,2025-04-03,Device & App,Device not supported,Low,Pending,3.5786586
+TCK0003611,CUST004670,2021-06-02,Account Access,Password reset,Low,Pending,3.486723
+TCK0003612,CUST004672,2026-06-28,Streaming Quality,Buffering,Medium,Escalated,2.9035037
+TCK0003617,CUST004678,2021-03-19,Billing & Payments,Price dispute,Medium,Escalated,3.177044
+TCK0003623,CUST004686,2025-10-04,Subscription,Auto-renew complaint,Medium,Pending,3.4518216
+TCK0003625,CUST004687,2025-12-20,Subscription,Plan downgrade request,Low,Escalated,3.572727
+TCK0003628,CUST004691,2025-10-14,Streaming Quality,App crashing,Medium,Pending,3.169746
+TCK0003636,CUST004700,2025-11-05,Streaming Quality,App crashing,Medium,Pending,3.1204817
+TCK0003642,CUST004703,2022-09-17,Subscription,Plan downgrade request,High,Pending,3.4769592
+TCK0003647,CUST004712,2025-08-24,Subscription,Plan upgrade request,Medium,Pending,3.4473703
+TCK0003650,CUST004716,2022-03-17,Billing & Payments,Invoice question,Medium,Pending,2.9571066
+TCK0003652,CUST004722,2025-10-04,Account Access,Email verification issue,Low,Pending,3.5773888
+TCK0003654,CUST004724,2024-03-12,Content,Content unavailable in region,Low,Escalated,3.7152116
+TCK0003658,CUST004728,2024-11-06,Billing & Payments,Refund request,High,Pending,3.1033008
+TCK0003666,CUST004736,2024-11-10,Billing & Payments,Refund request,Medium,Pending,2.9938982
+TCK0003681,CUST004757,,Billing & Payments,Price dispute,Low,Pending,3.1302536
+TCK0003688,CUST004769,2026-06-20,Account Access,Login failure,High,Pending,3.5141306
+TCK0003689,CUST004770,2024-04-11,Subscription,Cancellation request,Medium,Escalated,3.5177612
+TCK0003690,CUST004770,2025-12-04,Streaming Quality,Buffering,Medium,Escalated,3.0983675
+TCK0003691,CUST004771,2023-11-08,Streaming Quality,Low resolution,Medium,Pending,3.2100883
+TCK0003693,CUST004773,2022-07-07,Account Access,Email verification issue,Medium,Pending,3.3991456
+TCK0003715,CUST004807,2025-02-11,Account Access,Account locked,Medium,Pending,3.3566413
+TCK0003721,CUST004817,2026-04-02,Billing & Payments,Duplicate charge,Low,Escalated,2.964763
+TCK0003730,CUST004828,2024-12-06,Billing & Payments,Duplicate charge,Low,Escalated,2.891216
+TCK0003732,CUST004834,2025-12-19,Billing & Payments,Failed payment,Medium,Escalated,2.841036
+TCK0003740,CUST004846,2024-02-28,Streaming Quality,App crashing,Medium,Pending,3.2768314
+TCK0003741,CUST004850,2023-12-04,Billing & Payments,Invoice question,Medium,Escalated,2.9690876
+TCK0003742,CUST004851,2026-04-02,Subscription,Plan downgrade request,Medium,Pending,3.5507817
+TCK0003744,CUST004854,2024-04-02,Billing & Payments,Failed payment,High,Pending,3.0694387
+TCK0003750,CUST004865,2022-09-06,Billing & Payments,Refund request,Medium,Escalated,3.0330496
+TCK0003755,CUST004871,2025-09-01,Account Access,Email verification issue,Medium,Escalated,3.4634008
+TCK0003757,CUST004873,2026-03-18,Subscription,Plan upgrade request,Low,Pending,3.5261776
+TCK0003765,CUST004881,2026-05-25,Billing & Payments,Failed payment,Medium,Escalated,2.762686
+TCK0003770,CUST004886,2024-12-28,Device & App,Device not supported,Medium,Escalated,3.4223268
+TCK0003772,CUST004889,2025-11-06,Billing & Payments,Refund request,High,Pending,3.044249
+TCK0003777,CUST004898,2022-08-20,Device & App,App not loading,Medium,Escalated,3.6513796
+TCK0003780,CUST004899,2024-09-05,Streaming Quality,Buffering,High,Pending,3.016119
+TCK0003782,CUST004902,,Account Access,Login failure,Low,Pending,3.3880045
+TCK0003787,CUST004910,2026-01-25,Billing & Payments,Refund request,Low,Escalated,3.0399113
+TCK0003789,CUST004911,2025-07-23,Subscription,Plan downgrade request,High,Escalated,3.4569743
+TCK0003792,CUST004915,2024-10-29,Billing & Payments,Duplicate charge,Low,Escalated,3.001505
+TCK0003797,CUST004921,2020-09-04,Subscription,Plan downgrade request,Low,Pending,3.5573485
+TCK0003804,CUST004930,,Account Access,Password reset,High,Escalated,3.5662296
+TCK0003807,CUST004931,2023-04-07,Account Access,Account locked,Medium,Pending,3.623344
+TCK0003811,CUST004935,2025-05-30,Account Access,Login failure,Medium,Escalated,3.4094596
+TCK0003815,CUST004939,2026-05-30,Streaming Quality,Buffering,Critical,Pending,3.129299
+TCK0003823,CUST004949,2024-07-28,Streaming Quality,Buffering,Medium,Escalated,3.0792685
+TCK0003825,CUST004952,2024-11-24,Device & App,Download failure,High,Pending,3.658812
+TCK0003831,CUST004957,2024-12-31,Subscription,Plan downgrade request,Critical,Pending,3.6890533
+TCK0003835,CUST004964,2021-03-02,Streaming Quality,Audio sync issue,Low,Pending,3.234331
+TCK0003836,CUST004964,2025-06-06,Billing & Payments,Refund request,Low,Escalated,3.0045598
+TCK0003843,CUST004972,2024-06-05,Device & App,Sync across devices,Medium,Escalated,3.595219
+TCK0003845,CUST004979,2025-06-23,Device & App,Download failure,Medium,Escalated,3.4902956
+TCK0003846,CUST004981,2023-09-16,Billing & Payments,Refund request,Medium,Escalated,2.9817069
+TCK0003847,CUST004981,2021-12-11,Billing & Payments,Price dispute,High,Escalated,3.0793192
+TCK0003849,CUST004982,2020-12-26,Device & App,Download failure,Medium,Pending,3.4918208
+TCK0003853,CUST004984,2024-09-18,Content,Missing subtitles,Medium,Pending,3.4615595
+TCK0003854,CUST004985,2025-04-07,Account Access,Email verification issue,High,Escalated,3.4698834
+TCK0003855,CUST004985,2025-07-27,Account Access,Password reset,Low,Pending,3.4319448
+TCK0003857,CUST004986,2025-02-24,Content,Content unavailable in region,High,Pending,3.4766405
+TCK0003859,CUST004986,2023-03-31,Account Access,Email verification issue,Low,Pending,3.5801659
+TCK0003862,CUST004986,2023-03-19,Device & App,Sync across devices,Low,Pending,3.594401
+TCK0003872,CUST005001,2025-05-15,Billing & Payments,Duplicate charge,High,Pending,3.0249963
+TCK0003874,CUST005002,2021-01-20,Device & App,Download failure,Low,Escalated,3.4439929
+TCK0003876,CUST005005,2025-12-03,Billing & Payments,Duplicate charge,Medium,Pending,3.0242739
+TCK0003877,CUST005009,2023-03-02,Content,Content unavailable in region,Critical,Escalated,3.4696176
+TCK0003879,CUST005011,2024-05-09,Billing & Payments,Invoice question,Low,Pending,2.8756764
+TCK0003884,CUST005023,2025-11-12,Streaming Quality,Low resolution,Medium,Pending,2.9820595
+TCK0003885,CUST005024,2026-03-23,Content,Content removed,Low,Escalated,3.5995998
+TCK0003887,CUST005026,2025-12-30,Billing & Payments,Failed payment,High,Escalated,2.8696382
+TCK0003890,CUST005030,2024-09-30,Billing & Payments,Price dispute,Low,Pending,2.780746
+TCK0003893,CUST005033,2024-04-13,Streaming Quality,Buffering,Medium,Pending,3.0185611
+TCK0003895,CUST005035,2023-03-29,Subscription,Cancellation request,Medium,Escalated,3.4754405
+TCK0003897,CUST005037,2025-02-01,Device & App,Sync across devices,Low,Pending,3.6277633
+TCK0003898,CUST005038,2026-04-21,Account Access,Email verification issue,Low,Escalated,3.581734
+TCK0003902,CUST005046,2025-09-29,Billing & Payments,Duplicate charge,Low,Pending,2.9833176
+TCK0003909,CUST005057,2025-07-19,Content,Missing subtitles,Low,Escalated,3.555545
+TCK0003911,CUST005057,2026-02-24,Billing & Payments,Failed payment,High,Pending,3.1375031
+TCK0003916,CUST005063,2025-05-29,Billing & Payments,Invoice question,Low,Escalated,2.9689107
+TCK0003918,CUST005064,2024-11-22,Account Access,Email verification issue,Medium,Pending,3.6680765
+TCK0003921,CUST005066,2024-03-02,Billing & Payments,Failed payment,Medium,Pending,3.044757
+TCK0003922,CUST005067,2026-03-19,Billing & Payments,Failed payment,High,Pending,2.9988515
+TCK0003926,CUST005075,2022-08-16,Subscription,Plan upgrade request,Low,Pending,3.6607916
+TCK0003927,CUST005076,2025-04-17,Billing & Payments,Invoice question,Medium,Pending,2.9542446
+TCK0003935,CUST005087,2021-07-23,Device & App,Download failure,Low,Pending,3.4318604
+TCK0003948,CUST005107,2024-02-20,Content,Missing subtitles,Critical,Pending,3.552894
+TCK0003958,CUST005117,2022-10-12,Subscription,Auto-renew complaint,Low,Escalated,3.6068468
+TCK0003966,CUST005130,2026-06-16,Subscription,Plan downgrade request,Medium,Pending,3.5861795
+TCK0003971,CUST005140,2023-08-09,Account Access,Email verification issue,Low,Pending,3.5087905
+TCK0003974,CUST005142,2024-02-03,Billing & Payments,Failed payment,Medium,Pending,3.1187272
+TCK0003975,CUST005143,2020-06-01,Billing & Payments,Failed payment,Low,Pending,3.4246507
+TCK0003976,CUST005144,2023-06-22,Device & App,Device not supported,Low,Pending,3.5104685
+TCK0003979,CUST005152,2026-06-15,Subscription,Plan downgrade request,Low,Pending,3.476424
+TCK0003982,CUST005156,2025-01-08,Account Access,Email verification issue,Low,Pending,3.569004
+TCK0003998,CUST005179,2020-06-23,Streaming Quality,Buffering,High,Pending,2.9223938
+TCK0004004,CUST005182,2025-10-25,Account Access,Email verification issue,High,Pending,3.550278
+TCK0004009,CUST005192,2022-05-20,Content,Missing subtitles,Medium,Escalated,3.5810373
+TCK0004010,CUST005193,2023-06-18,Streaming Quality,Buffering,Medium,Escalated,3.0893426
+TCK0004021,CUST005208,2025-03-28,Streaming Quality,Audio sync issue,Medium,Pending,3.0092487
+TCK0004026,CUST005211,2022-01-04,Device & App,Download failure,High,Escalated,3.6145566
+TCK0004036,CUST005231,2022-03-25,Subscription,Cancellation request,Low,Pending,3.334686
+TCK0004038,CUST005235,2026-01-31,Device & App,Sync across devices,Low,Escalated,3.7933486
+TCK0004039,CUST005241,2026-04-08,Streaming Quality,Audio sync issue,Medium,Escalated,3.0493817
+TCK0004041,CUST005243,2019-09-14,Streaming Quality,Audio sync issue,High,Pending,2.9722602
+TCK0004046,CUST005253,2022-08-07,Subscription,Plan upgrade request,Medium,Escalated,3.6721563
+TCK0004049,CUST005256,2025-11-06,Billing & Payments,Refund request,Low,Pending,3.085197
+TCK0004050,CUST005256,2026-05-21,Subscription,Plan upgrade request,Medium,Pending,3.439585
+TCK0004051,CUST005258,2023-12-25,Billing & Payments,Invoice question,Medium,Pending,3.0873184
+TCK0004056,CUST005268,2022-07-15,Billing & Payments,Duplicate charge,High,Escalated,3.0145617
+TCK0004059,CUST005273,2026-06-28,Billing & Payments,Price dispute,Low,Pending,3.0368288
+TCK0004067,CUST005279,2026-04-14,Billing & Payments,Refund request,Medium,Pending,3.0848346
+TCK0004072,CUST005284,2024-08-05,Billing & Payments,Refund request,Medium,Pending,3.0356107
+TCK0004077,CUST005286,2025-04-08,Device & App,App not loading,Low,Pending,3.6296923
+TCK0004078,CUST005286,2025-04-23,Device & App,Download failure,Low,Escalated,3.4730675
+TCK0004079,CUST005288,2024-08-23,Billing & Payments,Failed payment,Medium,Escalated,2.9883187
+TCK0004081,CUST005291,2025-04-04,Streaming Quality,Low resolution,Critical,Pending,2.6797588
+TCK0004082,CUST005293,2026-05-21,Subscription,Plan upgrade request,Low,Escalated,3.329383
+TCK0004083,CUST005293,2026-06-23,Billing & Payments,Invoice question,Low,Pending,2.9717727
+TCK0004103,CUST005314,2023-08-21,Billing & Payments,Failed payment,Medium,Escalated,3.2828686
+TCK0004105,CUST005318,2024-11-20,Subscription,Plan downgrade request,Critical,Escalated,3.7925267
+TCK0004106,CUST005319,2025-05-10,Content,Content removed,High,Pending,3.63663
+TCK0004109,CUST005323,2024-08-03,Billing & Payments,Refund request,Medium,Escalated,3.1026874
+TCK0004110,CUST005325,2026-04-07,Billing & Payments,Price dispute,Low,Pending,2.8538136
+TCK0004115,CUST005334,2025-09-22,Account Access,Email verification issue,High,Escalated,3.5685723
+TCK0004122,CUST005345,2026-04-15,Billing & Payments,Price dispute,High,Escalated,2.9625816
+TCK0004128,CUST005354,2025-10-23,Subscription,Auto-renew complaint,Low,Escalated,3.6002686
+TCK0004136,CUST005364,2023-03-24,Content,Content unavailable in region,High,Pending,3.5682201
+TCK0004144,CUST005375,2026-06-10,Billing & Payments,Failed payment,Medium,Pending,3.0041327
+TCK0004145,CUST005377,2024-12-17,Device & App,Device not supported,Critical,Pending,3.3858259
+TCK0004154,CUST005388,2026-02-11,Device & App,Download failure,Low,Pending,3.5910306
+TCK0004157,CUST005392,2020-10-23,Subscription,Plan downgrade request,High,Escalated,3.449416
+TCK0004159,CUST005393,2026-04-26,Content,Content unavailable in region,Medium,Escalated,3.5767987
+TCK0004162,CUST005394,2023-01-06,Device & App,Sync across devices,Medium,Escalated,3.6623425
+TCK0004163,CUST005395,2026-06-24,Content,Content unavailable in region,Low,Escalated,3.4181955
+TCK0004165,CUST005402,2025-05-04,Billing & Payments,Duplicate charge,Low,Escalated,2.9164572
+TCK0004166,CUST005403,2021-12-24,Device & App,Device not supported,High,Escalated,3.611981
+TCK0004172,CUST005409,2025-01-15,Billing & Payments,Price dispute,Low,Pending,3.1588788
+TCK0004176,CUST005413,2025-06-01,Account Access,Password reset,Critical,Escalated,3.582537
+TCK0004177,CUST005419,2023-09-15,Streaming Quality,Audio sync issue,Medium,Pending,3.0592859
+TCK0004180,CUST005422,2023-07-31,Streaming Quality,Audio sync issue,Medium,Escalated,3.0100043
+TCK0004181,CUST005428,2021-11-07,Billing & Payments,Invoice question,High,Pending,2.8937845
+TCK0004187,CUST005435,2025-12-18,Account Access,Password reset,Medium,Escalated,3.186644
+TCK0004190,CUST005436,2022-08-27,Billing & Payments,Failed payment,Critical,Escalated,2.8977163
+TCK0004195,CUST005439,2026-06-14,Content,Content unavailable in region,Low,Escalated,3.5061119
+TCK0004196,CUST005440,2025-02-12,Billing & Payments,Duplicate charge,High,Pending,2.9591656
+TCK0004198,CUST005441,2023-12-15,Device & App,Download failure,Medium,Pending,3.6019707
+TCK0004201,CUST005447,2025-08-10,Streaming Quality,Audio sync issue,Medium,Escalated,3.0168009
+TCK0004202,CUST005448,2021-08-27,Billing & Payments,Price dispute,Critical,Pending,2.8960638
+TCK0004203,CUST005449,2023-06-01,Account Access,Account locked,Critical,Escalated,3.4855587
+TCK0004207,CUST005451,2026-02-10,Billing & Payments,Duplicate charge,Medium,Escalated,3.0948617
+TCK0004211,CUST005454,2023-10-31,Billing & Payments,Invoice question,Medium,Escalated,2.9411244
+TCK0004213,CUST005455,2026-04-30,Billing & Payments,Invoice question,Low,Pending,2.9625049
+TCK0004222,CUST005470,2025-12-31,Subscription,Plan upgrade request,Low,Escalated,3.2395172
+TCK0004226,CUST005481,2022-05-09,Streaming Quality,Buffering,Low,Pending,2.9901934
+TCK0004229,CUST005482,2025-06-09,Streaming Quality,Audio sync issue,Low,Pending,3.0517795
+TCK0004236,CUST005485,2025-05-01,Device & App,App not loading,Medium,Escalated,3.587047
+TCK0004256,CUST005509,2023-11-03,Content,Content removed,Medium,Pending,3.55186
+TCK0004261,CUST005519,2023-07-28,Streaming Quality,App crashing,Medium,Pending,3.071363
+TCK0004267,CUST005524,2025-10-24,Subscription,Cancellation request,Low,Pending,3.5783932
+TCK0004272,CUST005531,2025-09-20,Device & App,Sync across devices,Low,Pending,3.643297
+TCK0004273,CUST005534,2026-06-06,Subscription,Plan upgrade request,Medium,Escalated,3.5182743
+TCK0004274,CUST005534,2026-02-28,Billing & Payments,Refund request,Low,Pending,3.0324671
+TCK0004283,CUST005542,2024-07-13,Streaming Quality,App crashing,Low,Pending,3.1204922
+TCK0004287,CUST005544,2020-12-12,Billing & Payments,Refund request,Medium,Escalated,3.127171
+TCK0004288,CUST005545,2025-04-09,Device & App,Device not supported,High,Pending,3.3862443
+TCK0004292,CUST005557,2025-12-21,Device & App,Download failure,High,Pending,3.4924338
+TCK0004294,CUST005561,2023-07-17,Billing & Payments,Failed payment,Low,Escalated,3.0957487
+TCK0004295,CUST005563,,Billing & Payments,Duplicate charge,Medium,Pending,3.0070162
+TCK0004297,CUST005564,2026-03-03,Subscription,Auto-renew complaint,Critical,Escalated,3.6296647
+TCK0004302,CUST005573,2024-06-15,Content,Missing subtitles,High,Pending,3.7949717
+TCK0004304,CUST005576,2022-12-02,Billing & Payments,Invoice question,Medium,Pending,2.8783164
+TCK0004307,CUST005580,2026-05-04,Subscription,Cancellation request,Medium,Escalated,3.465388
+TCK0004314,CUST005594,2024-02-27,Streaming Quality,App crashing,High,Escalated,3.0456398
+TCK0004317,CUST005602,2026-03-21,Billing & Payments,Price dispute,Low,Pending,2.9151614
+TCK0004319,CUST005606,2025-09-24,Subscription,Plan downgrade request,High,Pending,3.2444894
+TCK0004320,CUST005607,2025-06-24,Account Access,Account locked,Medium,Escalated,3.4686768
+TCK0004327,CUST005614,2023-08-05,Billing & Payments,Failed payment,High,Escalated,3.1370392
+TCK0004328,CUST005616,2024-06-03,Subscription,Auto-renew complaint,Critical,Escalated,3.7003524
+TCK0004333,CUST005622,2023-05-12,Streaming Quality,Low resolution,Critical,Pending,2.9116893
+TCK0004336,CUST005626,2024-04-13,Billing & Payments,Duplicate charge,Critical,Pending,3.0788753
+TCK0004338,CUST005629,2023-02-28,Subscription,Plan downgrade request,Low,Pending,3.5563686
+TCK0004340,CUST005633,2024-04-12,Device & App,Download failure,High,Escalated,3.5943022
+TCK0004342,CUST005636,2025-04-10,Billing & Payments,Invoice question,Low,Pending,2.988392
+TCK0004348,CUST005640,2026-05-01,Device & App,Sync across devices,Low,Pending,3.7741034
+TCK0004354,CUST005646,2025-05-23,Subscription,Plan upgrade request,Low,Escalated,3.5476909
+TCK0004359,CUST005659,2021-12-14,Streaming Quality,Buffering,Low,Pending,3.0708044
+TCK0004360,CUST005660,,Subscription,Plan downgrade request,Critical,Escalated,3.6183207
+TCK0004362,CUST005662,2023-10-09,Streaming Quality,App crashing,Medium,Escalated,3.0793152
+TCK0004365,CUST005668,2026-06-18,Subscription,Plan downgrade request,Medium,Pending,3.550493
+TCK0004371,CUST005679,2025-08-22,Streaming Quality,Audio sync issue,Low,Escalated,3.1050956
+TCK0004374,CUST005681,2024-01-24,Subscription,Plan downgrade request,Low,Pending,3.5563686
+TCK0004376,CUST005682,2023-10-30,Streaming Quality,Buffering,High,Pending,2.962274
+TCK0004378,CUST005689,2021-04-01,Billing & Payments,Price dispute,Critical,Escalated,3.0157275
+TCK0004387,CUST005694,2025-04-15,Streaming Quality,App crashing,Medium,Pending,3.183591
+TCK0004392,CUST005700,2025-03-03,Billing & Payments,Duplicate charge,Low,Escalated,3.1293068
+TCK0004393,CUST005702,2024-07-26,Device & App,Download failure,High,Pending,3.4682608
+TCK0004403,CUST005711,2019-10-19,Subscription,Auto-renew complaint,Low,Escalated,3.6387372
+TCK0004407,CUST005718,2024-09-18,Billing & Payments,Invoice question,Medium,Escalated,2.8871374
+TCK0004417,CUST005731,2022-02-02,Billing & Payments,Invoice question,Critical,Pending,2.968437
+TCK0004427,CUST005751,2024-10-08,Streaming Quality,Buffering,Critical,Pending,3.2067225
+TCK0004430,CUST005754,2026-05-27,Account Access,Password reset,Low,Escalated,3.3825307
+TCK0004432,CUST005757,2025-10-21,Content,Content removed,Low,Escalated,3.5626607
+TCK0004436,CUST005760,2022-10-19,Device & App,Sync across devices,Low,Escalated,3.684416
+TCK0004440,CUST005765,2026-01-20,Device & App,Device not supported,Medium,Escalated,3.3735375
+TCK0004448,CUST005777,2021-07-14,Content,Missing subtitles,Low,Pending,3.4760368
+TCK0004450,CUST005779,2025-08-27,Streaming Quality,App crashing,Low,Pending,3.1810691
+TCK0004452,CUST005784,2021-01-16,Content,Content unavailable in region,High,Pending,3.6150916
+TCK0004458,CUST005802,2026-06-10,Device & App,Sync across devices,Medium,Pending,3.63285
+TCK0004464,CUST005811,2026-05-27,Account Access,Account locked,Medium,Pending,3.4686768
+TCK0004465,CUST005811,2026-05-08,Streaming Quality,Buffering,Medium,Escalated,3.0670738
+TCK0004466,CUST005812,2024-01-03,Streaming Quality,Low resolution,Low,Escalated,3.1062217
+TCK0004467,CUST005814,2025-02-03,Content,Content removed,Medium,Pending,3.6117015
+TCK0004468,CUST005814,2023-02-07,Billing & Payments,Refund request,Medium,Pending,3.119819
+TCK0004469,CUST005815,2026-06-16,Subscription,Cancellation request,Medium,Pending,3.2762527
+TCK0004470,CUST005815,2025-10-02,Account Access,Account locked,High,Pending,3.4478986
+TCK0004472,CUST005816,2023-11-02,Billing & Payments,Failed payment,Low,Pending,2.9177303
+TCK0004475,CUST005820,2020-05-02,Billing & Payments,Invoice question,Medium,Pending,2.9610739
+TCK0004477,CUST005822,2023-08-21,Billing & Payments,Invoice question,Critical,Pending,2.9407897
+TCK0004479,CUST005830,2020-01-29,Subscription,Plan upgrade request,Medium,Pending,3.5035915
+TCK0004481,CUST005833,2022-09-24,Account Access,Password reset,High,Escalated,3.3014748
+TCK0004482,CUST005834,2025-04-14,Billing & Payments,Price dispute,Low,Escalated,2.4555857
+TCK0004486,CUST005842,2025-04-04,Streaming Quality,App crashing,Low,Pending,3.120837
+TCK0004489,CUST005845,2026-01-30,Content,Content unavailable in region,Low,Pending,3.587765
+TCK0004494,CUST005851,2024-11-04,Billing & Payments,Invoice question,Low,Pending,3.1039612
+TCK0004504,CUST005864,2026-02-20,Billing & Payments,Failed payment,Medium,Escalated,3.0352676
+TCK0004511,CUST005872,2025-08-09,Billing & Payments,Refund request,High,Pending,3.0623856
+TCK0004514,CUST005875,2026-01-04,Billing & Payments,Invoice question,Medium,Escalated,2.820452
+TCK0004524,CUST005890,2022-07-15,Subscription,Plan downgrade request,High,Escalated,3.5194623
+TCK0004539,CUST005914,2021-07-19,Billing & Payments,Refund request,Low,Escalated,2.8659687
+TCK0004541,CUST005917,2026-05-13,Account Access,Login failure,High,Pending,3.332298
+TCK0004544,CUST005921,2025-01-30,Streaming Quality,Buffering,Low,Pending,3.1244178
+TCK0004551,CUST005930,2023-08-19,Account Access,Password reset,Low,Escalated,3.5141597
+TCK0004562,CUST005944,2025-11-03,Device & App,Download failure,Low,Pending,3.6052442
+TCK0004564,CUST005947,2022-10-01,Subscription,Plan downgrade request,Medium,Pending,3.5314465
+TCK0004565,CUST005948,2025-06-09,Device & App,Device not supported,Critical,Escalated,3.6050632
+TCK0004571,CUST005964,2026-05-14,Billing & Payments,Invoice question,Medium,Escalated,2.9404871
+TCK0004581,CUST005980,2025-07-31,Billing & Payments,Refund request,Low,Escalated,3.0275948
+TCK0004582,CUST005981,2024-11-19,Billing & Payments,Failed payment,Low,Pending,2.935907
+TCK0004588,CUST005993,2024-03-08,Device & App,Sync across devices,High,Pending,3.4817724
+TCK0004601,CUST006009,2025-11-30,Device & App,Device not supported,Critical,Pending,3.422925
+TCK0004605,CUST006016,2026-03-03,Subscription,Plan downgrade request,Medium,Pending,3.485483
+TCK0004606,CUST006017,2023-08-15,Subscription,Plan upgrade request,Low,Pending,3.5361092
+TCK0004609,CUST006021,2024-11-16,Billing & Payments,Refund request,High,Pending,3.156157
+TCK0004613,CUST006026,2025-11-04,Billing & Payments,Invoice question,High,Pending,2.956286
+TCK0004620,CUST006030,2022-11-03,Content,Content unavailable in region,Medium,Escalated,3.551114
+TCK0004622,CUST006032,2024-01-17,Device & App,Download failure,Low,Escalated,3.5878122
+TCK0004623,CUST006033,2022-10-24,Billing & Payments,Refund request,Critical,Pending,3.1857927
+TCK0004625,CUST006033,2025-10-15,Streaming Quality,Low resolution,Medium,Pending,3.0428843
+TCK0004627,CUST006037,2022-03-29,Subscription,Plan upgrade request,Medium,Pending,3.634078
+TCK0004630,CUST006039,2025-10-22,Streaming Quality,Buffering,High,Escalated,2.7668412
+TCK0004639,CUST006047,2026-01-17,Account Access,Email verification issue,High,Escalated,3.6089115
+TCK0004640,CUST006048,2026-05-14,Streaming Quality,Low resolution,Medium,Pending,3.200739
+TCK0004648,CUST006058,2025-01-26,Streaming Quality,App crashing,Critical,Pending,3.068086
+TCK0004651,CUST006063,2022-10-03,Account Access,Email verification issue,High,Pending,3.5188606
+TCK0004656,CUST006065,2020-05-24,Billing & Payments,Refund request,High,Escalated,3.092096
+TCK0004665,CUST006074,2025-08-26,Subscription,Cancellation request,Medium,Escalated,3.3664556
+TCK0004674,CUST006086,2022-12-11,Device & App,Download failure,Low,Pending,3.6077623
+TCK0004675,CUST006087,2026-04-03,Streaming Quality,App crashing,Critical,Pending,3.0833793
+TCK0004677,CUST006091,2026-02-07,Account Access,Password reset,Medium,Escalated,3.3135195
+TCK0004680,CUST006095,2025-10-29,Streaming Quality,Audio sync issue,Medium,Pending,3.0735056
+TCK0004684,CUST006104,2024-09-07,Streaming Quality,App crashing,Medium,Escalated,3.098885
+TCK0004689,CUST006112,2026-04-19,Account Access,Login failure,High,Pending,3.4918087
+TCK0004693,CUST006119,2026-01-27,Content,Content removed,Low,Escalated,3.4740217
+TCK0004696,CUST006121,2021-06-10,Billing & Payments,Failed payment,Medium,Pending,3.0388575
+TCK0004697,CUST006121,2024-08-31,Billing & Payments,Price dispute,Low,Pending,2.8506606
+TCK0004701,CUST006122,2025-08-25,Billing & Payments,Refund request,High,Escalated,2.6706233
+TCK0004710,CUST006137,2023-09-13,Streaming Quality,Low resolution,Low,Escalated,3.1215699
+TCK0004712,CUST006142,2024-12-27,Billing & Payments,Refund request,Low,Escalated,3.0449824
+TCK0004714,CUST006145,2025-03-06,Streaming Quality,App crashing,Low,Pending,3.0841658
+TCK0004723,CUST006147,2025-03-11,Streaming Quality,Buffering,Medium,Escalated,3.4690127
+TCK0004728,CUST006152,2022-09-22,Billing & Payments,Invoice question,Medium,Escalated,2.939775
+TCK0004730,CUST006152,2025-09-21,Streaming Quality,App crashing,Low,Pending,3.060584
+TCK0004731,CUST006153,2024-12-01,Device & App,Device not supported,Low,Pending,3.4771783
+TCK0004732,CUST006153,2023-10-18,Billing & Payments,Invoice question,Medium,Escalated,2.8422916
+TCK0004737,CUST006155,2024-11-15,Device & App,Download failure,Medium,Escalated,3.428961
+TCK0004739,CUST006158,2025-10-13,Device & App,Sync across devices,Low,Pending,3.5225983
+TCK0004742,CUST006158,2024-11-03,Billing & Payments,Failed payment,Low,Pending,3.022382
+TCK0004751,CUST006171,2021-07-17,Billing & Payments,Failed payment,Low,Pending,3.0517712
+TCK0004760,CUST006186,2023-12-15,Streaming Quality,Audio sync issue,Low,Escalated,3.0123441
+TCK0004763,CUST006193,,Content,Content removed,Medium,Escalated,3.5160375
+TCK0004765,CUST006197,2024-05-16,Account Access,Password reset,Low,Pending,3.4144037
+TCK0004768,CUST006206,2026-01-30,Billing & Payments,Refund request,High,Pending,3.0524695
+TCK0004770,CUST006208,2021-05-16,Account Access,Account locked,Medium,Escalated,3.573349
+TCK0004771,CUST006208,2024-10-16,Streaming Quality,App crashing,Low,Pending,3.1527002
+TCK0004773,CUST006213,2022-05-01,Streaming Quality,Buffering,Medium,Escalated,2.858207
+TCK0004775,CUST006216,2025-10-17,Subscription,Cancellation request,Critical,Escalated,3.330756
+TCK0004779,CUST006223,2026-04-27,Device & App,App not loading,Medium,Pending,3.5545928
+TCK0004785,CUST006233,2025-05-28,Billing & Payments,Refund request,Low,Pending,3.012671
+TCK0004789,CUST006248,2023-12-31,Billing & Payments,Failed payment,Low,Pending,3.0684958
+TCK0004791,CUST006254,2023-04-13,Billing & Payments,Failed payment,Critical,Pending,3.1178718
+TCK0004793,CUST006255,2025-01-07,Billing & Payments,Refund request,Critical,Pending,3.134052
+TCK0004800,CUST006264,2026-04-25,Billing & Payments,Invoice question,Low,Escalated,2.8493643
+TCK0004803,CUST006266,2025-05-17,Account Access,Email verification issue,Critical,Escalated,3.5271552
+TCK0004806,CUST006267,2025-02-18,Streaming Quality,Buffering,High,Escalated,2.988073
+TCK0004807,CUST006267,2024-02-07,Billing & Payments,Duplicate charge,Low,Escalated,3.0172198
+TCK0004810,CUST006268,2026-05-30,Streaming Quality,Low resolution,High,Escalated,2.9394894
+TCK0004815,CUST006270,2025-09-15,Account Access,Account locked,Low,Pending,3.1330981
+TCK0004827,CUST006280,2026-06-23,Streaming Quality,Low resolution,Medium,Pending,3.143867
+TCK0004837,CUST006291,2025-06-27,Device & App,Device not supported,Low,Escalated,3.619554
+TCK0004842,CUST006297,2025-06-26,Billing & Payments,Duplicate charge,Low,Escalated,3.095852
+TCK0004848,CUST006311,2026-05-22,Streaming Quality,Buffering,Medium,Pending,3.0897605
+TCK0004849,CUST006316,2020-12-14,Content,Content removed,Medium,Pending,3.4374115
+TCK0004854,CUST006322,2021-03-30,Streaming Quality,Buffering,Low,Escalated,3.257913
+TCK0004855,CUST006323,2020-07-04,Streaming Quality,Audio sync issue,High,Pending,2.9718664
+TCK0004856,CUST006324,2025-07-31,Device & App,App not loading,Low,Pending,3.326463
+TCK0004859,CUST006329,2026-05-01,Device & App,Sync across devices,High,Pending,3.6428337
+TCK0004862,CUST006332,2022-10-12,Billing & Payments,Failed payment,Low,Pending,3.0390277
+TCK0004865,CUST006337,2026-05-25,Billing & Payments,Invoice question,High,Pending,2.7352407
+TCK0004867,CUST006341,2026-05-07,Account Access,Login failure,Medium,Escalated,3.3992856
+TCK0004876,CUST006351,2022-06-20,Device & App,Sync across devices,Critical,Pending,3.6993918
+TCK0004880,CUST006355,2026-03-29,Streaming Quality,Buffering,Low,Pending,2.881266
+TCK0004884,CUST006358,2026-01-19,Account Access,Account locked,Low,Pending,3.717901
+TCK0004885,CUST006359,2026-05-21,Subscription,Plan downgrade request,High,Pending,3.5005012
+TCK0004888,CUST006361,2025-11-17,Streaming Quality,Low resolution,Low,Escalated,3.0677292
+TCK0004891,CUST006365,2023-03-03,Subscription,Plan downgrade request,Critical,Pending,3.5850718
+TCK0004893,CUST006368,2023-10-14,Streaming Quality,App crashing,Low,Pending,3.11978
+TCK0004897,CUST006377,2022-12-26,Content,Content removed,Medium,Escalated,3.4979088
+TCK0004898,CUST006378,2024-04-10,Content,Missing subtitles,High,Pending,3.5129704
+TCK0004899,CUST006380,2021-11-18,Streaming Quality,Audio sync issue,Medium,Pending,3.0199468
+TCK0004900,CUST006381,2025-08-13,Streaming Quality,Buffering,Low,Escalated,3.3932443
+TCK0004901,CUST006384,2021-05-10,Subscription,Auto-renew complaint,Low,Escalated,3.528453
+TCK0004903,CUST006385,2025-05-13,Content,Missing subtitles,Low,Pending,3.4987235
+TCK0004904,CUST006385,2024-12-09,Streaming Quality,Low resolution,Critical,Escalated,2.8129709
+TCK0004907,CUST006391,2026-01-07,Account Access,Login failure,High,Escalated,3.5066931
+TCK0004909,CUST006397,2026-01-17,Device & App,App not loading,Medium,Pending,3.5942101
+TCK0004916,CUST006399,2023-12-06,Content,Missing subtitles,High,Pending,3.4115257
+TCK0004923,CUST006406,2021-07-08,Device & App,Download failure,Low,Pending,3.5714839
+TCK0004925,CUST006408,2025-08-06,Content,Content unavailable in region,Critical,Escalated,3.5652251
+TCK0004929,CUST006410,2026-04-28,Billing & Payments,Price dispute,Low,Escalated,2.5437334
+TCK0004930,CUST006411,2024-03-13,Account Access,Email verification issue,Medium,Pending,3.6553497
+TCK0004940,CUST006427,2025-05-30,Streaming Quality,Buffering,Medium,Pending,3.1862156
+TCK0004943,CUST006430,2020-09-27,Subscription,Auto-renew complaint,Low,Pending,3.578679
+TCK0004948,CUST006435,2025-12-01,Content,Missing subtitles,Medium,Pending,3.386872
+TCK0004952,CUST006442,2024-07-10,Device & App,Device not supported,Low,Pending,3.5104685
+TCK0004954,CUST006445,2026-02-14,Billing & Payments,Refund request,Medium,Pending,3.0976226
+TCK0004956,CUST006448,2026-01-26,Device & App,Sync across devices,Low,Escalated,3.6458278
+TCK0004957,CUST006449,2025-06-23,Billing & Payments,Refund request,Low,Pending,2.9975872
+TCK0004963,CUST006457,2021-12-25,Account Access,Password reset,High,Escalated,3.0308938
+TCK0004967,CUST006463,2026-03-29,Content,Content unavailable in region,Low,Escalated,3.5882096
+TCK0004968,CUST006464,2021-03-13,Billing & Payments,Price dispute,High,Pending,3.0504084
+TCK0004971,CUST006469,2022-03-31,Content,Content unavailable in region,High,Escalated,3.8055897
+TCK0004972,CUST006471,2024-01-31,Subscription,Plan upgrade request,Low,Pending,3.5261776
+TCK0004976,CUST006476,2020-07-23,Streaming Quality,Buffering,Low,Escalated,2.9316351
+TCK0004988,CUST006493,2026-01-16,Billing & Payments,Price dispute,Low,Pending,3.404152
+TCK0004998,CUST006508,2024-10-11,Billing & Payments,Invoice question,Low,Escalated,3.0300128
+TCK0005001,CUST006511,2025-10-13,Account Access,Email verification issue,Low,Escalated,3.472412
+TCK0005007,CUST006521,2024-07-19,Device & App,Download failure,High,Pending,3.467537
+TCK0005008,CUST006521,2025-04-12,Streaming Quality,Buffering,High,Pending,3.0433815
+TCK0005012,CUST006535,2025-02-07,Billing & Payments,Invoice question,Medium,Escalated,2.9830906
+TCK0005017,CUST006543,2023-01-22,Billing & Payments,Invoice question,Medium,Escalated,2.9408047
+TCK0005018,CUST006543,2025-05-13,Billing & Payments,Invoice question,Medium,Pending,2.9841225
+TCK0005020,CUST006547,2025-09-15,Device & App,Sync across devices,Medium,Escalated,3.5444198
+TCK0005024,CUST006548,2026-05-15,Billing & Payments,Failed payment,Low,Pending,2.941734
+TCK0005025,CUST006549,2026-05-11,Account Access,Password reset,Low,Escalated,3.3533523
+TCK0005028,CUST006552,2025-06-02,Content,Content removed,Medium,Escalated,3.5513837
+TCK0005032,CUST006554,2026-05-22,Streaming Quality,Buffering,Medium,Escalated,3.0897605
+TCK0005033,CUST006557,2022-08-24,Streaming Quality,Buffering,Medium,Escalated,3.200183
+TCK0005040,CUST006573,2021-06-23,Account Access,Email verification issue,Low,Escalated,3.5061746
+TCK0005042,CUST006579,2026-03-11,Device & App,Device not supported,Low,Pending,3.5155275
+TCK0005043,CUST006579,2026-05-03,Streaming Quality,Buffering,Medium,Pending,3.0307865
+TCK0005044,CUST006581,2026-04-03,Subscription,Cancellation request,Medium,Escalated,3.4674575
+TCK0005047,CUST006585,2021-01-21,Streaming Quality,Low resolution,Medium,Pending,3.0337322
+TCK0005053,CUST006594,2022-10-22,Billing & Payments,Failed payment,Medium,Escalated,3.003881
+TCK0005058,CUST006600,2023-08-06,Streaming Quality,Buffering,Low,Pending,3.0208168
+TCK0005061,CUST006603,2026-01-16,Account Access,Email verification issue,High,Escalated,3.6106882
+TCK0005064,CUST006612,2022-06-21,Content,Missing subtitles,Low,Escalated,3.4987235
+TCK0005065,CUST006612,2024-11-04,Subscription,Plan upgrade request,High,Pending,3.4195437
+TCK0005071,CUST006620,2026-04-24,Content,Content removed,Medium,Escalated,3.4797149
+TCK0005072,CUST006620,2024-01-04,Account Access,Password reset,High,Escalated,3.4478862
+TCK0005073,CUST006620,2024-07-08,Device & App,Download failure,Low,Escalated,3.5717986
+TCK0005078,CUST006633,2025-12-24,Streaming Quality,Audio sync issue,High,Escalated,2.8041947
+TCK0005085,CUST006640,2023-12-26,Account Access,Login failure,High,Pending,3.2677603
+TCK0005087,CUST006641,2024-09-19,Subscription,Plan upgrade request,Low,Escalated,3.5508666
+TCK0005091,CUST006650,2025-12-09,Streaming Quality,Audio sync issue,Low,Pending,3.0455492
+TCK0005093,CUST006654,2026-02-22,Device & App,Device not supported,High,Escalated,3.5231912
+TCK0005095,CUST006655,2023-09-15,Device & App,App not loading,High,Pending,3.5251966
+TCK0005107,CUST006670,2024-10-06,Device & App,Device not supported,High,Pending,3.42468
+TCK0005132,CUST006694,2025-05-03,Subscription,Auto-renew complaint,Low,Escalated,3.5602944
+TCK0005133,CUST006697,2022-03-13,Streaming Quality,Low resolution,Medium,Escalated,3.0240474
+TCK0005135,CUST006699,2026-06-14,Billing & Payments,Refund request,Medium,Pending,2.9174533
+TCK0005140,CUST006702,2026-02-06,Streaming Quality,Low resolution,Low,Pending,3.0302613
+TCK0005141,CUST006706,2023-04-27,Device & App,Sync across devices,Medium,Escalated,3.6433814
+TCK0005151,CUST006715,2019-10-31,Streaming Quality,Audio sync issue,Low,Pending,2.8982522
+TCK0005153,CUST006716,2026-03-11,Billing & Payments,Price dispute,Critical,Escalated,3.0243754
+TCK0005155,CUST006717,2021-09-02,Subscription,Cancellation request,Low,Pending,3.4604428
+TCK0005157,CUST006718,2024-03-19,Streaming Quality,Buffering,Medium,Escalated,3.1182053
+TCK0005158,CUST006720,2024-09-23,Streaming Quality,Audio sync issue,Low,Escalated,3.001127
+TCK0005160,CUST006726,2021-11-12,Billing & Payments,Refund request,Medium,Pending,2.9509373
+TCK0005175,CUST006751,2026-05-11,Billing & Payments,Failed payment,High,Escalated,2.7147107
+TCK0005176,CUST006752,2023-08-13,Streaming Quality,Low resolution,High,Escalated,2.911096
+TCK0005185,CUST006764,2025-10-14,Device & App,App not loading,Medium,Pending,3.5540512
+TCK0005192,CUST006771,2023-10-04,Streaming Quality,Low resolution,Low,Pending,3.1089756
+TCK0005200,CUST006779,2025-07-09,Account Access,Account locked,Critical,Pending,3.5290627
+TCK0005201,CUST006779,2024-11-10,Content,Content unavailable in region,Low,Escalated,3.566209
+TCK0005203,CUST006786,2024-03-10,Device & App,Download failure,Low,Pending,3.6097577
+TCK0005206,CUST006788,2023-11-24,Subscription,Plan downgrade request,High,Pending,3.5572505
+TCK0005213,CUST006797,2023-09-13,Streaming Quality,App crashing,High,Escalated,3.0403724
+TCK0005214,CUST006797,2020-10-23,Device & App,Device not supported,Medium,Pending,3.4170592
+TCK0005215,CUST006798,2025-01-13,Account Access,Account locked,Low,Pending,3.5362823
+TCK0005216,CUST006798,2024-08-07,Account Access,Password reset,Low,Escalated,3.467632
+TCK0005217,CUST006798,2026-06-04,Billing & Payments,Invoice question,High,Pending,2.9340093
+TCK0005221,CUST006805,2026-04-28,Billing & Payments,Failed payment,Medium,Escalated,2.8793845
+TCK0005231,CUST006823,2023-07-15,Account Access,Account locked,Medium,Pending,3.5207138
+TCK0005233,CUST006823,2021-07-01,Streaming Quality,App crashing,Low,Escalated,3.1331382
+TCK0005235,CUST006830,2024-03-01,Device & App,Device not supported,Low,Escalated,3.6417773
+TCK0005236,CUST006830,2025-12-10,Account Access,Email verification issue,Critical,Pending,3.3911235
+TCK0005239,CUST006831,2025-03-04,Account Access,Login failure,Medium,Escalated,3.2481942
+TCK0005247,CUST006837,2025-01-06,Streaming Quality,App crashing,Medium,Pending,3.0766618
+TCK0005249,CUST006840,2026-06-11,Subscription,Plan upgrade request,Low,Escalated,3.6268106
+TCK0005254,CUST006856,2024-06-15,Streaming Quality,Low resolution,Critical,Escalated,2.6758509
+TCK0005259,CUST006863,2021-10-14,Streaming Quality,App crashing,Medium,Pending,3.145773
+TCK0005260,CUST006864,2024-05-16,Subscription,Auto-renew complaint,Low,Pending,3.247657
+TCK0005264,CUST006870,2023-02-21,Account Access,Login failure,Low,Escalated,3.4775116
+TCK0005265,CUST006871,2022-05-21,Device & App,Device not supported,Medium,Pending,3.532159
+TCK0005267,CUST006875,2026-05-08,Streaming Quality,Audio sync issue,Low,Pending,2.9744604
+TCK0005276,CUST006885,2025-03-09,Billing & Payments,Duplicate charge,High,Escalated,3.092899
+TCK0005277,CUST006886,2025-12-21,Billing & Payments,Price dispute,High,Pending,3.0674877
+TCK0005283,CUST006894,2022-10-09,Billing & Payments,Duplicate charge,Low,Pending,2.9933155
+TCK0005285,CUST006896,2024-04-27,Streaming Quality,Low resolution,Medium,Pending,3.044594
+TCK0005288,CUST006900,2023-10-22,Billing & Payments,Invoice question,Low,Pending,2.8956473
+TCK0005289,CUST006903,2024-03-02,Account Access,Password reset,Low,Escalated,3.6693573
+TCK0005290,CUST006905,2025-05-27,Billing & Payments,Price dispute,High,Pending,2.8729146
+TCK0005293,CUST006910,2026-02-18,Streaming Quality,Buffering,Medium,Escalated,3.1888916
+TCK0005298,CUST006915,2024-11-10,Account Access,Login failure,Medium,Escalated,3.376378
+TCK0005299,CUST006915,2024-12-03,Streaming Quality,App crashing,Critical,Escalated,3.1424427
+TCK0005310,CUST006929,2026-01-11,Billing & Payments,Refund request,Medium,Pending,3.0008278
+TCK0005312,CUST006930,2024-01-11,Billing & Payments,Failed payment,High,Escalated,3.0381424
+TCK0005316,CUST006934,2025-04-29,Content,Missing subtitles,Medium,Pending,3.5174952
+TCK0005317,CUST006935,2023-06-17,Streaming Quality,Buffering,Medium,Pending,3.1148837
+TCK0005320,CUST006938,2020-11-20,Billing & Payments,Duplicate charge,Medium,Pending,3.0551088
+TCK0005321,CUST006942,2026-05-29,Billing & Payments,Invoice question,Low,Pending,2.997355
+TCK0005324,CUST006949,2026-05-01,Billing & Payments,Invoice question,Medium,Pending,3.1457934
+TCK0005330,CUST006955,2024-11-21,Billing & Payments,Invoice question,Medium,Pending,3.0196173
+TCK0005331,CUST006956,2023-07-01,Streaming Quality,App crashing,Low,Escalated,3.107011
+TCK0005340,CUST006968,,Subscription,Auto-renew complaint,High,Pending,3.7611048
+TCK0005341,CUST006969,2023-05-17,Billing & Payments,Duplicate charge,Medium,Escalated,3.0070162
+TCK0005342,CUST006972,2025-11-28,Device & App,App not loading,Low,Escalated,3.477364
+TCK0005347,CUST006982,2023-01-19,Content,Content unavailable in region,High,Escalated,3.52526
+TCK0005348,CUST006984,2021-02-21,Account Access,Login failure,Low,Pending,3.477532
+TCK0005352,CUST006989,2025-12-12,Account Access,Account locked,Medium,Pending,3.1143131
+TCK0005361,CUST007003,2025-07-29,Account Access,Password reset,Medium,Pending,3.450137
+TCK0005376,CUST007035,2022-05-14,Billing & Payments,Refund request,High,Pending,3.0800188
+TCK0005378,CUST007041,2026-02-16,Subscription,Plan upgrade request,Low,Pending,3.529734
+TCK0005380,CUST007043,2024-02-02,Billing & Payments,Duplicate charge,Medium,Pending,3.024265
+TCK0005385,CUST007055,2024-01-23,Subscription,Cancellation request,Low,Escalated,3.7017264
+TCK0005387,CUST007057,2026-06-03,Content,Content removed,Medium,Escalated,3.6544209
+TCK0005389,CUST007059,2022-05-04,Streaming Quality,Audio sync issue,Low,Pending,3.1338737
+TCK0005396,CUST007070,2024-12-23,Subscription,Plan downgrade request,Low,Pending,3.5123065
+TCK0005397,CUST007071,2023-03-13,Billing & Payments,Price dispute,Low,Pending,3.1574512
+TCK0005399,CUST007075,2026-05-16,Content,Content removed,Low,Pending,3.6455505
+TCK0005405,CUST007083,2026-06-30,Subscription,Plan upgrade request,High,Escalated,3.442656
+TCK0005417,CUST007098,2020-03-10,Subscription,Plan downgrade request,Medium,Pending,3.4724383
+TCK0005429,CUST007106,2025-03-07,Billing & Payments,Refund request,Medium,Pending,2.8407955
+TCK0005437,CUST007114,2026-05-09,Streaming Quality,Audio sync issue,Medium,Escalated,3.0600903
+TCK0005440,CUST007118,2026-01-30,Billing & Payments,Duplicate charge,Low,Pending,3.3048096
+TCK0005445,CUST007131,2026-04-08,Account Access,Account locked,Medium,Pending,3.493187
+TCK0005449,CUST007138,2022-02-28,Content,Missing subtitles,Medium,Pending,3.5107543
+TCK0005458,CUST007150,2025-08-06,Billing & Payments,Duplicate charge,High,Escalated,2.8136654
+TCK0005466,CUST007166,2020-11-23,Billing & Payments,Refund request,Medium,Pending,2.9968927
+TCK0005469,CUST007170,2022-01-07,Billing & Payments,Duplicate charge,Low,Pending,3.078753
+TCK0005471,CUST007174,2024-03-11,Account Access,Password reset,Low,Escalated,3.5324001
+TCK0005474,CUST007179,2024-07-03,Account Access,Account locked,Medium,Pending,3.3868341
+TCK0005477,CUST007181,2025-04-22,Subscription,Plan upgrade request,Medium,Pending,3.4440868
+TCK0005483,CUST007187,2025-07-21,Streaming Quality,Low resolution,Low,Pending,2.9732473
+TCK0005492,CUST007197,2021-05-29,Subscription,Plan downgrade request,Low,Pending,3.5898354
+TCK0005494,CUST007201,2024-06-11,Subscription,Auto-renew complaint,Low,Escalated,3.6801074
+TCK0005497,CUST007203,2025-03-31,Streaming Quality,Buffering,Critical,Pending,3.0028846
+TCK0005505,CUST007212,2021-10-10,Content,Content unavailable in region,Medium,Escalated,3.545904
+TCK0005507,CUST007219,2026-06-08,Account Access,Email verification issue,Low,Pending,3.486699
+TCK0005510,CUST007220,2026-03-16,Content,Missing subtitles,Low,Escalated,3.484275
+TCK0005511,CUST007220,2025-07-22,Account Access,Password reset,Low,Pending,3.3593922
+TCK0005518,CUST007228,2025-12-13,Subscription,Auto-renew complaint,Medium,Escalated,3.581277
+TCK0005519,CUST007228,2026-04-02,Device & App,App not loading,Low,Pending,3.6426027
+TCK0005520,CUST007230,2023-08-30,Billing & Payments,Price dispute,High,Pending,2.835914
+TCK0005526,CUST007236,2024-02-29,Streaming Quality,Buffering,High,Pending,2.7590764
+TCK0005530,CUST007247,2026-06-12,Billing & Payments,Refund request,Medium,Escalated,3.0998776
+TCK0005531,CUST007247,2026-06-16,Billing & Payments,Invoice question,Low,Pending,3.4633813
+TCK0005533,CUST007251,2025-12-28,Subscription,Plan downgrade request,Low,Escalated,3.6081111
+TCK0005536,CUST007253,2025-08-16,Device & App,Download failure,Medium,Escalated,3.546391
+TCK0005537,CUST007255,2022-07-26,Subscription,Cancellation request,Critical,Pending,3.3599265
+TCK0005539,CUST007256,2024-10-30,Streaming Quality,Audio sync issue,Low,Escalated,2.9348843
+TCK0005541,CUST007258,2025-08-26,Device & App,Download failure,Low,Escalated,3.6021402
+TCK0005546,CUST007266,2026-06-10,Device & App,App not loading,High,Escalated,3.4500773
+TCK0005548,CUST007266,2026-03-26,Billing & Payments,Duplicate charge,Low,Escalated,2.9829276
+TCK0005556,CUST007280,2023-09-21,Device & App,App not loading,Medium,Pending,3.7659798
+TCK0005559,CUST007287,2020-10-21,Billing & Payments,Failed payment,Medium,Escalated,3.4442606
+TCK0005560,CUST007288,2024-01-07,Billing & Payments,Invoice question,Critical,Pending,2.9991221
+TCK0005561,CUST007291,2023-12-17,Billing & Payments,Refund request,Low,Escalated,3.1105082
+TCK0005566,CUST007296,2026-01-01,Subscription,Auto-renew complaint,Medium,Pending,3.5234404
+TCK0005567,CUST007297,2026-04-06,Billing & Payments,Duplicate charge,Low,Pending,2.645776
+TCK0005578,CUST007307,2024-09-19,Account Access,Email verification issue,Critical,Pending,3.4393709
+TCK0005585,CUST007320,2022-02-27,Billing & Payments,Failed payment,Medium,Pending,3.1004906
+TCK0005590,CUST007326,2025-12-08,Device & App,App not loading,Medium,Pending,3.4497511
+TCK0005592,CUST007329,2022-12-10,Billing & Payments,Invoice question,Low,Pending,2.9758627
+TCK0005594,CUST007332,2024-06-09,Streaming Quality,Low resolution,Medium,Escalated,2.9730875
+TCK0005596,CUST007334,2023-11-29,Streaming Quality,Buffering,Medium,Pending,3.0038848
+TCK0005600,CUST007339,2024-10-12,Account Access,Email verification issue,Medium,Pending,3.5688972
+TCK0005602,CUST007341,2024-11-10,Subscription,Plan downgrade request,Low,Escalated,3.539533
+TCK0005603,CUST007341,2022-02-07,Streaming Quality,App crashing,Low,Pending,3.3349078
+TCK0005608,CUST007345,2020-01-13,Streaming Quality,App crashing,Low,Pending,3.1044838
+TCK0005610,CUST007351,2025-06-16,Streaming Quality,Audio sync issue,Critical,Escalated,3.107475
+TCK0005617,CUST007363,2022-02-14,Subscription,Auto-renew complaint,Low,Pending,3.604164
+TCK0005626,CUST007378,2025-03-06,Device & App,Device not supported,Medium,Escalated,3.5354424
+TCK0005633,CUST007382,2022-09-10,Streaming Quality,Low resolution,Low,Pending,2.9588966
+TCK0005637,CUST007387,2024-10-01,Billing & Payments,Duplicate charge,Medium,Pending,3.0954509
+TCK0005639,CUST007389,2026-06-05,Streaming Quality,Audio sync issue,High,Escalated,2.9474914
+TCK0005640,CUST007390,2022-07-12,Account Access,Password reset,Low,Pending,3.419773
+TCK0005644,CUST007393,2026-06-24,Content,Content unavailable in region,Medium,Pending,3.6124125
+TCK0005646,CUST007396,2024-11-04,Device & App,Sync across devices,Medium,Escalated,3.598886
+TCK0005648,CUST007398,2022-10-19,Device & App,Device not supported,Medium,Escalated,3.4364295
+TCK0005651,CUST007406,2025-05-15,Billing & Payments,Invoice question,Low,Escalated,2.9581978
+TCK0005662,CUST007417,2023-08-29,Billing & Payments,Refund request,Critical,Pending,3.119419
+TCK0005664,CUST007422,2022-08-14,Streaming Quality,App crashing,Low,Pending,3.1248233
+TCK0005665,CUST007422,2021-05-29,Subscription,Cancellation request,Low,Escalated,3.407021
+TCK0005666,CUST007423,2026-01-22,Streaming Quality,Audio sync issue,High,Pending,2.8887007
+TCK0005667,CUST007424,2023-09-15,Content,Missing subtitles,Medium,Pending,3.5521529
+TCK0005668,CUST007424,2026-05-18,Streaming Quality,Buffering,Medium,Pending,3.1884084
+TCK0005677,CUST007434,2024-05-30,Account Access,Email verification issue,Medium,Pending,3.16709
+TCK0005679,CUST007438,2022-08-21,Streaming Quality,Buffering,High,Pending,3.0412624
+TCK0005681,CUST007444,2024-07-02,Content,Content unavailable in region,Medium,Escalated,2.8834047
+TCK0005683,CUST007444,2022-02-05,Subscription,Auto-renew complaint,Medium,Pending,3.6067696
+TCK0005685,CUST007444,2024-09-01,Billing & Payments,Failed payment,Medium,Pending,2.966758
+TCK0005688,CUST007449,2024-06-11,Device & App,Sync across devices,High,Pending,3.5793762
+TCK0005691,CUST007455,2025-02-23,Device & App,App not loading,Low,Escalated,3.685193
+TCK0005693,CUST007457,2022-12-22,Streaming Quality,Buffering,Low,Pending,3.0373626
+TCK0005694,CUST007457,2025-03-13,Account Access,Email verification issue,Medium,Pending,3.2475727
+TCK0005696,CUST007458,2024-10-11,Streaming Quality,Audio sync issue,Critical,Escalated,3.0302193
+TCK0005697,CUST007459,2022-07-20,Subscription,Plan downgrade request,Low,Pending,3.4952223
+TCK0005707,CUST007463,2026-04-06,Device & App,Device not supported,Low,Escalated,3.5621414
+TCK0005711,CUST007468,2019-12-17,Streaming Quality,Buffering,Low,Escalated,3.0020409
+TCK0005712,CUST007470,2025-07-28,Billing & Payments,Duplicate charge,Medium,Escalated,2.980729
+TCK0005717,CUST007476,2025-09-16,Account Access,Login failure,Medium,Escalated,3.3346167
+TCK0005724,CUST007485,2026-06-21,Streaming Quality,App crashing,Low,Escalated,2.8264606
+TCK0005725,CUST007486,2022-05-10,Streaming Quality,Low resolution,High,Pending,2.8888016
+TCK0005728,CUST007493,2023-11-28,Streaming Quality,Low resolution,High,Pending,2.926329
+TCK0005732,CUST007498,2024-11-29,Account Access,Password reset,High,Escalated,3.3518531
+TCK0005736,CUST007501,2024-07-01,Streaming Quality,Audio sync issue,High,Pending,3.0136955
+TCK0005737,CUST007505,2025-09-10,Streaming Quality,Audio sync issue,Low,Pending,3.0745418
+TCK0005739,CUST007508,2026-02-05,Account Access,Password reset,Critical,Pending,3.5871408
+TCK0005743,CUST007512,2022-07-11,Streaming Quality,App crashing,Low,Escalated,3.091351
+TCK0005750,CUST007517,2026-06-18,Billing & Payments,Price dispute,High,Pending,3.0961246
+TCK0005754,CUST007520,2026-04-23,Streaming Quality,Audio sync issue,Low,Escalated,3.111766
+TCK0005758,CUST007525,2026-04-16,Billing & Payments,Invoice question,High,Pending,2.890557
+TCK0005759,CUST007526,2025-01-05,Account Access,Password reset,Critical,Pending,3.4370787
+TCK0005760,CUST007526,2025-11-10,Billing & Payments,Invoice question,Medium,Escalated,2.9515238
+TCK0005769,CUST007536,2026-03-07,Billing & Payments,Invoice question,Low,Escalated,2.8209388
+TCK0005770,CUST007537,2024-07-31,Billing & Payments,Failed payment,Critical,Pending,2.8132045
+TCK0005773,CUST007544,2022-07-07,Streaming Quality,Buffering,High,Escalated,3.0168312
+TCK0005780,CUST007559,2024-06-16,Billing & Payments,Invoice question,Medium,Pending,2.8795598
+TCK0005785,CUST007564,2024-10-24,Billing & Payments,Price dispute,Medium,Pending,3.1374223
+TCK0005794,CUST007572,2026-03-04,Streaming Quality,App crashing,Critical,Pending,3.1348228
+TCK0005798,CUST007575,2026-06-27,Account Access,Login failure,Low,Pending,3.460077
+TCK0005800,CUST007580,2026-06-17,Streaming Quality,Buffering,High,Escalated,2.998657
+TCK0005801,CUST007582,2025-10-13,Streaming Quality,App crashing,Medium,Pending,3.0628169
+TCK0005803,CUST007588,2020-05-22,Streaming Quality,Audio sync issue,High,Escalated,2.9171584
+TCK0005804,CUST007588,2025-03-09,Subscription,Plan upgrade request,Critical,Escalated,3.5115511
+TCK0005811,CUST007599,2025-01-20,Subscription,Plan upgrade request,Low,Pending,3.529734
+TCK0005813,CUST007603,2026-01-08,Billing & Payments,Invoice question,High,Pending,3.1981142
+TCK0005837,CUST007635,2021-06-22,Subscription,Plan upgrade request,Medium,Escalated,3.4994197
+TCK0005839,CUST007636,2025-01-07,Billing & Payments,Duplicate charge,Critical,Escalated,3.024904
+TCK0005840,CUST007637,2026-02-20,Billing & Payments,Failed payment,High,Pending,2.9036245
+TCK0005843,CUST007639,2025-05-31,Billing & Payments,Duplicate charge,Low,Pending,3.0845716
+TCK0005849,CUST007648,2025-11-07,Device & App,Device not supported,Medium,Pending,3.4672644
+TCK0005853,CUST007660,2025-10-19,Content,Missing subtitles,Low,Escalated,3.2432818
+TCK0005859,CUST007663,,Billing & Payments,Failed payment,High,Pending,2.879796
+TCK0005863,CUST007668,2025-11-27,Streaming Quality,Low resolution,Low,Escalated,2.8475695
+TCK0005864,CUST007669,2023-03-06,Device & App,App not loading,Low,Escalated,3.5630646
+TCK0005872,CUST007676,2025-11-30,Subscription,Plan downgrade request,High,Pending,3.5872514
+TCK0005873,CUST007677,2023-06-25,Content,Missing subtitles,Low,Pending,3.5306368
+TCK0005880,CUST007687,2024-05-12,Account Access,Password reset,Low,Escalated,3.3906872
+TCK0005890,CUST007699,2023-06-14,Subscription,Plan upgrade request,Low,Pending,3.5452204
+TCK0005905,CUST007724,2025-10-23,Streaming Quality,App crashing,High,Escalated,2.7840018
+TCK0005908,CUST007734,2026-03-29,Account Access,Password reset,Medium,Escalated,3.584517
+TCK0005909,CUST007736,2026-06-25,Streaming Quality,Low resolution,Low,Pending,2.756662
+TCK0005915,CUST007742,2023-08-18,Account Access,Account locked,Medium,Escalated,3.5429828
+TCK0005921,CUST007752,2024-12-30,Account Access,Email verification issue,Low,Pending,3.3480916
+TCK0005925,CUST007759,2025-08-26,Billing & Payments,Refund request,High,Escalated,2.999772
+TCK0005928,CUST007765,2023-07-24,Account Access,Email verification issue,Critical,Escalated,3.5008328
+TCK0005929,CUST007768,2026-01-31,Streaming Quality,Audio sync issue,Medium,Escalated,2.9890213
+TCK0005933,CUST007779,2026-03-01,Billing & Payments,Price dispute,Medium,Escalated,2.9121697
+TCK0005936,CUST007780,2024-12-28,Account Access,Password reset,Medium,Pending,3.1547217
+TCK0005940,CUST007787,2024-03-31,Streaming Quality,Low resolution,Medium,Pending,2.8283136
+TCK0005941,CUST007788,2024-03-20,Device & App,Download failure,High,Pending,3.4232585
+TCK0005946,CUST007789,2023-09-22,Streaming Quality,Low resolution,Critical,Escalated,3.0690773
+TCK0005948,CUST007790,2026-02-25,Content,Missing subtitles,Low,Pending,2.8067536
+TCK0005951,CUST007793,2024-03-24,Account Access,Email verification issue,Low,Escalated,3.5806105
+TCK0005953,CUST007793,2025-12-13,Streaming Quality,Buffering,Low,Pending,3.0183113
+TCK0005954,CUST007794,2026-01-17,Content,Content removed,Medium,Escalated,3.630258
+TCK0005956,CUST007799,2022-02-07,Account Access,Email verification issue,Low,Pending,3.5320263
+TCK0005959,CUST007800,2023-08-22,Account Access,Login failure,High,Pending,3.4367683
+TCK0005965,CUST007808,2023-05-06,Streaming Quality,Audio sync issue,Low,Pending,3.15241
+TCK0005966,CUST007808,2024-08-02,Account Access,Account locked,Low,Pending,3.7262428
+TCK0005970,CUST007811,2023-10-15,Account Access,Account locked,Low,Escalated,3.5443058
+TCK0005971,CUST007811,2022-11-29,Device & App,Sync across devices,Low,Escalated,3.5029013
+TCK0005972,CUST007812,2024-03-27,Account Access,Login failure,Low,Escalated,3.4775116
+TCK0005975,CUST007813,2025-08-16,Streaming Quality,Buffering,Critical,Pending,3.262621
+TCK0005981,CUST007822,2024-09-10,Streaming Quality,Buffering,High,Escalated,2.4757977
+TCK0005982,CUST007822,2020-09-22,Streaming Quality,Low resolution,Critical,Escalated,3.089763
+TCK0005987,CUST007828,2026-06-21,Subscription,Auto-renew complaint,High,Escalated,3.610902
+TCK0005988,CUST007829,2020-05-31,Billing & Payments,Price dispute,Medium,Escalated,3.1252234
+TCK0005992,CUST007837,2024-07-02,Billing & Payments,Duplicate charge,Medium,Escalated,3.0469267
+TCK0005995,CUST007844,2026-03-25,Billing & Payments,Invoice question,Low,Pending,3.0998762
+TCK0005997,CUST007847,2026-03-11,Billing & Payments,Duplicate charge,Medium,Escalated,3.0467026
+TCK0005999,CUST007849,2023-02-04,Account Access,Email verification issue,Medium,Pending,3.4780443
+TCK0006004,CUST007854,2021-01-11,Streaming Quality,Buffering,Medium,Escalated,2.9793117
+TCK0006008,CUST007859,2026-06-13,Account Access,Email verification issue,Medium,Escalated,3.5555148
+TCK0006009,CUST007861,2024-11-21,Billing & Payments,Refund request,Medium,Escalated,3.1097786
+TCK0006015,CUST007865,2023-05-18,Account Access,Password reset,High,Pending,2.8434992
+TCK0006017,CUST007869,2023-09-27,Subscription,Plan downgrade request,Medium,Pending,3.6788423
+TCK0006018,CUST007873,2026-06-03,Streaming Quality,App crashing,Medium,Pending,3.344182
+TCK0006020,CUST007874,2023-04-11,Device & App,Sync across devices,Medium,Pending,3.534516
+TCK0006021,CUST007875,2025-07-09,Content,Content removed,Low,Pending,3.7740533
+TCK0006023,CUST007882,2026-05-31,Device & App,Sync across devices,High,Pending,3.7016432
+TCK0006029,CUST007889,2026-01-02,Subscription,Auto-renew complaint,Medium,Pending,3.477169
+TCK0006034,CUST007891,2024-10-05,Billing & Payments,Refund request,Low,Pending,3.010261
+TCK0006035,CUST007892,2025-12-27,Streaming Quality,Audio sync issue,Medium,Escalated,3.025894
+TCK0006036,CUST007893,2026-05-10,Subscription,Auto-renew complaint,Low,Escalated,2.5625436
+TCK0006038,CUST007894,2025-08-17,Billing & Payments,Duplicate charge,Low,Pending,3.0136306
+TCK0006040,CUST007896,2025-04-01,Streaming Quality,Low resolution,Low,Pending,3.2217257
+TCK0006041,CUST007896,2024-07-10,Streaming Quality,Audio sync issue,Medium,Pending,3.2008326
+TCK0006044,CUST007899,2025-02-09,Account Access,Login failure,Critical,Escalated,3.344611
+TCK0006046,CUST007899,2024-08-23,Account Access,Login failure,Medium,Escalated,3.4829786
+TCK0006053,CUST007905,2024-05-24,Streaming Quality,Buffering,Medium,Pending,2.912649
+TCK0006055,CUST007906,2025-01-13,Streaming Quality,App crashing,High,Pending,2.9887109
+TCK0006056,CUST007907,2024-05-13,Billing & Payments,Failed payment,Medium,Escalated,3.0627258
+TCK0006072,CUST007922,2024-11-12,Subscription,Auto-renew complaint,High,Pending,3.3742855
+TCK0006075,CUST007929,2024-08-29,Account Access,Login failure,Low,Pending,3.4119496
+TCK0006078,CUST007935,2024-09-17,Streaming Quality,Audio sync issue,High,Pending,2.8148305
+TCK0006083,CUST007944,2025-06-29,Billing & Payments,Refund request,High,Pending,3.0839114
+TCK0006091,CUST007954,2023-02-06,Subscription,Auto-renew complaint,Critical,Pending,3.5728686
+TCK0006092,CUST007954,2024-11-11,Billing & Payments,Duplicate charge,Low,Escalated,2.9865017
+TCK0006102,CUST007969,2024-09-22,Device & App,Download failure,Low,Pending,3.651548
+TCK0006117,CUST007994,2022-06-08,Billing & Payments,Failed payment,Low,Escalated,2.9182045
+TCK0006120,CUST008000,2025-09-13,Content,Content removed,Medium,Pending,3.6549838
